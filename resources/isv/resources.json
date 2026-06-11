@@ -1,0 +1,66 @@
+{
+  "schemaVersion": 1,
+  "locale": "isv",
+  "resources": [
+    {
+      "id": "resource_umb_site",
+      "title": "Medicinska biofizika UMB",
+      "description": "Sajt Oděla medicinskoj biofiziky na UMB."
+    },
+    {
+      "id": "resource_handbook",
+      "title": "Handbook",
+      "description": "Studentsky podrěčnik dlja English Division."
+    },
+    {
+      "id": "resource_theory_book",
+      "title": "Theory Book",
+      "description": "Podrěčnik k laboratorijam iz biofiziky dlja English Division."
+    },
+    {
+      "id": "resource_biophysics_glaser",
+      "title": "Biophysics",
+      "description": "Učebnik Biophysics avtora Roland Glaser."
+    },
+    {
+      "id": "resource_physics_biology_medicine",
+      "title": "Physics in Biology and Medicine",
+      "description": "Učebnik Physics in Biology and Medicine avtora Paul Davidovits."
+    },
+    {
+      "id": "resource_fundamentals_physics",
+      "title": "Fundamentals of Physics",
+      "description": "Učebnik Fundamentals of Physics avtorov Halliday, Resnick i Walker."
+    },
+    {
+      "id": "resource_biophysics_intro",
+      "title": "Biophysics An Introduction",
+      "description": "Učebnik Biophysics An Introduction avtora Rodney Cotterill."
+    },
+    {
+      "id": "resource_final_exam_formulas",
+      "title": "Formuly za konečny izpit",
+      "description": "Formuly za konečny izpit iz biofiziky."
+    },
+    {
+      "id": "resource_medyk",
+      "title": "Medyk Białostocki",
+      "description": "Arhiv studentskogo časopisa Medyk Białostocki."
+    },
+    {
+      "id": "resource_popsci_video",
+      "title": "Popular science medicine MUB",
+      "description": "Medicina jest univerzalna nauka, ktora gluboko vlije na život kazdago člověka. Jej složne izsledovanja trěbujut byti prěvedene v popularnu nauku, aby odpovědati očekivanjam obščestva i zapolniti proru v razuměnju."
+    },
+    {
+      "id": "resource_anki_en",
+      "title": "MedBioPhys - koloda za laboratorij medicinskoj biofiziky",
+      "description": "Koloda kart dlja laboratorija medicinskoj biofiziky (English Division)."
+    },
+    {
+      "id": "resource_anki_pl",
+      "title": "MedBioFiz - temy za laboratorij medicinskoj biofiziky",
+      "description": "Koloda kart dlja laboratorija medicinskoj biofiziky."
+    }
+  ]
+}

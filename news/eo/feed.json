@@ -1,0 +1,156 @@
+{
+  "schemaVersion": 1,
+  "locale": "eo",
+  "items": [
+    {
+      "id": "announcement-lab-hours-2026",
+      "title": "Printempa laboratoriohoroj aktualizitaj",
+      "publishedAt": "2026-02-15T09:00:00Z",
+      "markdownBody": "# Printempa laboratoriohoroj\n\nLa Medicina Biofizika laboratorio plilongigas la malfermhorojn dum la printempa ekzamenperiodo.\n\n![Praktika laboratorio](images/workshop_lab.png)\n\n## Ŝanĝoj\n\n- Lundo–ĵaŭdo: **08:00–18:00**\n- Vendredo: **08:00–15:00**\n- Konsultoj nur post antaŭa rendevuo"
+    },
+    {
+      "id": "news-seminar-series-2026",
+      "title": "Printempa biofizika seminara serio komenciĝas",
+      "publishedAt": "2026-02-10T08:30:00Z",
+      "markdownBody": "# Biofizika seminara serio\n\nLa fakultato lanĉas printempan seminarserion pri medicina bildigo kaj laboratoria diagnozo.\n\n![MRI skanerĉambro](images/mri_scan.png)\n\n## Unuaj sesioj\n\n1. **MRI-sekurecfundamentoj** — 18 februaro\n2. **Ultrasono en klinika praktiko** — 4 marto\n3. **Optikaj metodoj en histoanalizo** — 18 marto"
+    },
+    {
+      "id": "announcement-library-access-2026",
+      "title": "Plilongigita aliro al radiologia referencoj",
+      "publishedAt": "2026-02-08T11:00:00Z",
+      "markdownBody": "# Plilongigita biblioteka aliro\n\nLa fakultata legĉambro ofertas plilongigitan vesperan aliron al radiologia kaj medicin-fizikaj libroj.\n\n![Lerta spaco](images/library_study.png)\n\n## Novaĵoj\n\n- Ĵurnaloj pri MRI, CT kaj PET\n- Arkivoj pri **Marie Curie**"
+    },
+    {
+      "id": "news-mri-technology-advances",
+      "title": "Fakultato elstarigas MRI-teknologiajn progresojn",
+      "publishedAt": "2026-02-05T10:00:00Z",
+      "markdownBody": "# Progresoj en MRI-teknologio\n\nEsploristoj prezentis laboron pri **7 T esplor-MRI** kaj kvantaj sekvencoj en neŭrobildigo.\n\n![MRI-teknologio](images/mri_scan.png)"
+    },
+    {
+      "id": "news-pet-imaging-update",
+      "title": "Novaj PET-spurprotokoloj por oncologia instruado",
+      "publishedAt": "2026-01-28T09:00:00Z",
+      "markdownBody": "# PET-bildiga ĝisdatigo\n\nKlinikaj partneroj dividis **FDG-PET** protokolojn por onkologia instruado.\n\n![PET-skanilo](images/pet_scanner.png)"
+    },
+    {
+      "id": "news-proton-therapy-centre",
+      "title": "Studvizito al regiona protona terapia centro",
+      "publishedAt": "2026-01-22T08:00:00Z",
+      "markdownBody": "# Protona terapia studvizito\n\nKursantoj de la kvara jaro vizitos **protonan terapian** instalaĵon por observi planadon kaj dozdonon.\n\n![Protona terapio](images/proton_therapy.png)"
+    },
+    {
+      "id": "news-ultrasound-physics-course",
+      "title": "Ultrasona fiziko aldonas Doppler-laboratoriojn",
+      "publishedAt": "2026-01-18T12:00:00Z",
+      "markdownBody": "# Ultrsona fiziko\n\nLa reviziita **ultrsona fiziko** aldonas Doppler-fantomojn kaj spektanalizojn.\n\n![Ultrsona sondo](images/ultrasound_probe.png)"
+    },
+    {
+      "id": "news-medical-ai-radiology",
+      "title": "Gasta prelego pri medicina AI en radiologio",
+      "publishedAt": "2026-01-12T09:30:00Z",
+      "markdownBody": "# Medicina AI en radiologio\n\nPrelego esploras kiel **maŝina lernado** helpas detekti pulmajn nodojn.\n\n![Medicina AI](images/medical_ai.png)"
+    },
+    {
+      "id": "news-hounsfield-lecture-series",
+      "title": "Hounsfield-prelega serio pri CT-bildigo",
+      "publishedAt": "2026-01-08T10:00:00Z",
+      "markdownBody": "# Hounsfield-prelega serio\n\nLa serio honoras **Sir Godfrey Hounsfield** kaj pritraktas CT-fizikon.\n\n![CT-skanilo](images/hounsfield_ct.png)"
+    },
+    {
+      "id": "news-cern-medical-applications",
+      "title": "CERN medicinaj aplikoj en printempa kolokvio",
+      "publishedAt": "2026-01-03T08:00:00Z",
+      "markdownBody": "# CERN medicinaj aplikoj\n\nKolokvio ligas **CERN-akceligilteknologion** kun medicina bildigo.\n\n![Akceligilo](images/cern_medical.png)"
+    },
+    {
+      "id": "scientific-club-imedic-2026",
+      "title": "Scienca Klubo: voko por abstraktoj iMEDIC 2026",
+      "publishedAt": "2026-02-01T10:00:00Z",
+      "markdownBody": "# Scienca Klubo: iMEDIC 2026\n\nLa klubo invitas studentojn sendi abstraktojn por **iMEDIC 2026**.\n\n![Konferenca halo](images/conference_2026.png)"
+    },
+    {
+      "id": "scientific-club-student-project-grant",
+      "title": "Studentaj projektaj subvencioj por dozimetrio",
+      "publishedAt": "2026-01-25T09:00:00Z",
+      "markdownBody": "# Studentaj subvencioj\n\nLa klubo anoncas subvenciojn por **dozimetriaj** projektoj.\n\n![Studenta esplorgrupo](images/student_research.png)"
+    },
+    {
+      "id": "scientific-club-mri-workshop",
+      "title": "Semvica MRI-sekureca laborejo por novaj membroj",
+      "publishedAt": "2026-01-20T14:00:00Z",
+      "markdownBody": "# MRI-sekureca laborejo\n\nNovaj klubanoj partoprenas **MRI-sekurecan** seminarieton.\n\n![Laborejo](images/workshop_lab.png)"
+    },
+    {
+      "id": "scientific-club-publication-award",
+      "title": "Kluba premio por biofizika publikigo",
+      "publishedAt": "2026-01-14T11:00:00Z",
+      "markdownBody": "# Publikiga premio\n\nKlubano ricevis premion por **recenzita artikolo**.\n\n![Publikigo](images/publication_journal.png)"
+    },
+    {
+      "id": "scientific-club-biophysics-competition",
+      "title": "Nacia biofizika konkurso — registri vian teamon",
+      "publishedAt": "2026-01-05T09:00:00Z",
+      "markdownBody": "# Biofizika konkurso\n\nTeamoj ĝis kvar studentoj povas registri sin en la **nacia konkurso**.\n\n![Konkursa afiŝo](images/competition_poster.png)"
+    },
+    {
+      "id": "fun-fact-mri-magnets",
+      "title": "Amuzfakto: kial MRI-magnetoj estas tiel fortaj",
+      "publishedAt": "2026-01-20T12:00:00Z",
+      "markdownBody": "# Amuzfakto: MRI-magnetoj\n\nKlinikaj MRI-oj uzas superkonduktajn magnetojn je **1,5 T aŭ 3 T**.\n\n![Skemo de magneto](images/magnet_diagram.png)"
+    },
+    {
+      "id": "fun-fact-marie-curie",
+      "title": "Amuzfakto: Marie Curie kaj moveblaj radiografioj",
+      "publishedAt": "2026-01-17T12:00:00Z",
+      "markdownBody": "# Amuzfakto: Marie Curie\n\n**Marie Curie** kreis moveblajn radiografiajn unuojn dum la unua mondmilito.\n\n![Historia laboratorio](images/marie_curie_lab.png)"
+    },
+    {
+      "id": "fun-fact-hounsfield-units",
+      "title": "Amuzfakto: kion mezuras Hounsfield-unitoj",
+      "publishedAt": "2026-01-15T12:00:00Z",
+      "markdownBody": "# Amuzfakto: Hounsfield-unitoj\n\n**Hounsfield-unitoj** rilatigas CT-valorojn al akvo (0 HU).\n\n![CT-bildo](images/hounsfield_ct.png)"
+    },
+    {
+      "id": "fun-fact-cosmic-radiation",
+      "title": "Amuzfakto: kosma radiado dum flugo",
+      "publishedAt": "2026-01-12T12:00:00Z",
+      "markdownBody": "# Amuzfakto: kosma radiado\n\nPasaĝantoj de longaj flugoj ricevas **kosman radiadon**.\n\n![Kosma radiado](images/cosmic_radiation.png)"
+    },
+    {
+      "id": "fun-fact-pet-tracers",
+      "title": "Amuzfakto: kial PET-spuroj rapide decayas",
+      "publishedAt": "2026-01-10T12:00:00Z",
+      "markdownBody": "# Amuzfakto: PET-spuroj\n\nPET-spuroj uzas mallongvivajn izotopojn kiel fluor-18.\n\n![PET-fioloj](images/pet_tracer.png)"
+    },
+    {
+      "id": "fun-fact-proton-range",
+      "title": "Amuzfakto: la Bragg-pinto en protona terapio",
+      "publishedAt": "2026-01-08T12:00:00Z",
+      "markdownBody": "# Amuzfakto: protona atingo\n\nProtonoj donas energion ĉe akra **Bragg-pinto**.\n\n![Dozkurbo](images/proton_bragg.png)"
+    },
+    {
+      "id": "fun-fact-nobel-imaging",
+      "title": "Amuzfakto: Nobel-premioj kaj medicina bildigo",
+      "publishedAt": "2026-01-05T12:00:00Z",
+      "markdownBody": "# Amuzfakto: Nobel-premioj\n\nMedicina bildigo havas plurajn **Nobel-premiojn**.\n\n![Nobel-kolaĝo](images/nobel_imaging.png)"
+    },
+    {
+      "id": "fun-fact-ultrasound-frequency",
+      "title": "Amuzfakto: ultrsonaj frekvencoj en kliniko",
+      "publishedAt": "2026-01-03T12:00:00Z",
+      "markdownBody": "# Amuzfakto: ultrsona frekvenco\n\nDiagnostika ultrsono uzas **2–18 MHz** sonojn.\n\n![Doppler-ultrsono](images/doppler_ultrasound.png)"
+    },
+    {
+      "id": "fun-fact-digital-radiography",
+      "title": "Amuzfakto: cifera radiografio anstataŭis filmon",
+      "publishedAt": "2026-01-01T12:00:00Z",
+      "markdownBody": "# Amuzfakto: cifera radiografio\n\n**Cifera radiografio** konvertas X-radiation al elektronika signalo.\n\n![Cifera detektilo](images/digital_xray.png)"
+    },
+    {
+      "id": "fun-fact-tissue-attenuation",
+      "title": "Amuzfakto: hist-a attenuado diferencas laŭ modaloj",
+      "publishedAt": "2025-12-28T12:00:00Z",
+      "markdownBody": "# Amuzfakto: hist-a attenuado\n\nLa sama histo maldensigas **X-rajn**, **ultrsonon** kaj **MRI** diverse.\n\n![Histo-kontrasto](images/tissue_attenuation.png)"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "schemaVersion": 1,
+  "locale": "es",
+  "resources": [
+    {
+      "id": "resource_umb_site",
+      "title": "Biofísica Médica UMB",
+      "description": "Sitio web del Departamento de Biofísica Médica de la UMB."
+    },
+    {
+      "id": "resource_handbook",
+      "title": "Handbook",
+      "description": "Manual del estudiante para la English Division."
+    },
+    {
+      "id": "resource_theory_book",
+      "title": "Theory Book",
+      "description": "Manual de laboratorio de biofísica para la English Division."
+    },
+    {
+      "id": "resource_biophysics_glaser",
+      "title": "Biophysics",
+      "description": "Libro de texto: Biophysics de Roland Glaser."
+    },
+    {
+      "id": "resource_physics_biology_medicine",
+      "title": "Physics in Biology and Medicine",
+      "description": "Libro de texto: Physics in Biology and Medicine de Paul Davidovits."
+    },
+    {
+      "id": "resource_fundamentals_physics",
+      "title": "Fundamentals of Physics",
+      "description": "Libro de texto: Fundamentals of Physics de Halliday, Resnick y Walker."
+    },
+    {
+      "id": "resource_biophysics_intro",
+      "title": "Biophysics An Introduction",
+      "description": "Libro de texto: Biophysics An Introduction de Rodney Cotterill."
+    },
+    {
+      "id": "resource_final_exam_formulas",
+      "title": "Fórmulas del examen final",
+      "description": "Fórmulas para el examen final de Biofísica."
+    },
+    {
+      "id": "resource_medyk",
+      "title": "Medyk Białostocki",
+      "description": "Archivo de la revista estudiantil Medyk Białostocki."
+    },
+    {
+      "id": "resource_popsci_video",
+      "title": "Popular science medicine MUB",
+      "description": "La medicina es una ciencia universal que impacta profundamente la vida de todas las personas. Su investigación compleja debe traducirse a divulgación científica para responder a las expectativas del público y reducir la brecha de comprensión."
+    },
+    {
+      "id": "resource_anki_en",
+      "title": "MedBioPhys - mazo de laboratorio de biofísica médica",
+      "description": "Mazo de tarjetas para el laboratorio de Biofísica Médica (English Division)."
+    },
+    {
+      "id": "resource_anki_pl",
+      "title": "MedBioFiz - temas de laboratorio de biofísica médica",
+      "description": "Mazo de tarjetas para el laboratorio de biofísica médica."
+    }
+  ]
+}

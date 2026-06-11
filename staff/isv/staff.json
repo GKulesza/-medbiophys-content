@@ -1,0 +1,218 @@
+{
+  "schemaVersion": 1,
+  "locale": "isv",
+  "staff": {
+    "staff_bm": {
+      "title": "Glava katedry",
+      "consultingHours": "Uto 10:00–11:00",
+      "researchInterests": [
+        "analiza mehanizmov dějstvija lěkarstv vplivajučih na glady mišicu",
+        "priměnjenje biofizičnyh metod v farmakologii",
+        "issledovanje mozg–komputernego interfejsa (BCI)",
+        "fiziologija i bioelektričnost nervnoj sistemy"
+      ],
+      "achievements": [
+        "Promotorka doktorskih rabot, opiekunka Studentskego Naučnogo Kružka ‘Forum Biophysicum’ i soavtor publikacij popularizirujučih nauku.",
+        "Iniciirovala prěimenovanje jedinicy v Katedru Medičinske Biofiziky (2025), podčerkivajuč integraciju osnovnyh i kliničnyh nauk.",
+        "Pod jej rukovodstvom Katedra všla v sodobny etap razvitija, sodruživajuč tradiciju medicinske fiziky s issledovanjem funkcij nervnoj sistemy.",
+        "Simvol novogo pokolenja učenyh – interdisciplinarnyh, otvorenym k sotrudničestvu i tehnologijam."
+      ],
+      "publications": [],
+      "awards": [],
+      "active": true,
+      "bioParagraphs": [
+        "Dr hab. Beata Modzelewska jest glava Katedry Medičinske Biofiziky Medicinskego Universiteta v Białystok.",
+        "Biofizik i neurofiziolog, specializirajučij se na farmakodinamiku relaxantov i vzaimodejstvije među nervnoj sistemoj i aktivnostju glady mišicy."
+      ],
+      "sources": [
+        "Medyk Białostocki, 8–9/2007",
+        "Medyk Białostocki, 2024",
+        "Materialy UMB"
+      ]
+    },
+    "staff_mk": {
+      "title": "Asistent profesor",
+      "consultingHours": "Po dogovoru",
+      "researchInterests": [
+        "ocena izloženosti ljudij jonizirujučemu izluchenju",
+        "izmerenje koncentracije radona i radiocesija v okruženju",
+        "prirodna radioaktivnost stroitelnyh materialov i mineralnyh vod",
+        "vlijanje radioaktivnosti okruženja na zdravje člověka"
+      ],
+      "achievements": [],
+      "publications": [],
+      "awards": [],
+      "active": true,
+      "bioParagraphs": [
+        "Dr hab. Maria Karpińska – biofizik, specializirajuči se na radiologičnoj zaštite i radioekologii okruženja.",
+        "Glava Katedry Biofiziky v letah 2000–2019, prodolživajuč issledovanija započete prof. E. Trembaczowskim i prof. F. Rogowskim."
+      ],
+      "teachingInterests": [
+        "zaniatija po biofizike, radiologičnoj zaštite i metodam izmerenja izluchenja",
+        "promotorka mnogih magisterskih i doktorskih rabot"
+      ],
+      "sources": [
+        "Medyk Białostocki, 8–9/2007",
+        "Medyk Białostocki, 2016",
+        "Polska Medicinska Platforma (UMB)"
+      ]
+    },
+    "staff_mt": {
+      "title": "Asistent profesor · Koordinator nauky",
+      "consultingHours": "Uto 11:00–12:00",
+      "researchInterests": [
+        "V poisku vitaminy solnca (2022) – o značenju vitaminy D",
+        "Mikrobiom na straže našej imunitety (2023)",
+        "Neuroplastičnost (2023)"
+      ],
+      "achievements": [],
+      "publications": [],
+      "awards": [],
+      "active": true,
+      "bioParagraphs": [
+        "Dr hab. Marzena Tylicka – asistent v Katedrě Medičinske Biofiziky, koordinator nauky.",
+        "Zanimaje se za didaktiku biofiziky i popularizaciju nauky, sodruživajuč molekularnu biologiju, fiziologiju i zdravje javno."
+      ],
+      "sources": [
+        "Medyk Białostocki, 2022–2023",
+        "Materialy Katedry Medičinske Biofiziky UMB"
+      ]
+    },
+    "staff_tk": {
+      "title": "Asistent profesor",
+      "consultingHours": "Uto 13:00–14:00",
+      "researchInterests": [
+        "modelirovanje biofizičnyh procesov",
+        "komputerova analiza eksperimentalnyh danyh",
+        "fiziologija nervnoj sistemy",
+        "integracija bioinformatiky s didaktikoj"
+      ],
+      "achievements": [],
+      "publications": [],
+      "awards": [],
+      "active": true,
+      "bioParagraphs": [
+        "Dr hab. Tomasz Kleszczewski – biofizik i akademičny lektor UMB.",
+        "Specializiruje se na fizičnyh i informatičnyh metodah analizy biologičnyh procesov i didaktike biofiziky."
+      ],
+      "sources": [
+        "Medyk Białostocki, 2020–2024",
+        "Spisok nagraždenyh učenyh UMB (2016–2021)"
+      ]
+    },
+    "staff_ar": {
+      "title": "Asistent profesor · Koordinator kursa",
+      "consultingHours": "Uto 13:00–14:00",
+      "researchInterests": [
+        "prirodna radioaktivnost prirodnyh lěčebnyh preparatov (ekstrakty iz torfa)",
+        "radioaktivnost probok vody iz severo-vostocnoj Polsky",
+        "polifenoly kako modulatory motilnosti pishhevaritelnogo trakta"
+      ],
+      "achievements": [
+        "2018: Nagrada Rektora II stepeni (individualna; kako dr Agnieszka Bielawska).",
+        "2014: Nagrada kollektivna III stepeni za issledovanija radioaktivnosti stroitelnyh materialov i prirodnyh lěčebnyh preparatov (kollektiv: prof. F. Rogowski, dr A. Bielawska, dr M. Karpińska, dr B. Modzelewska, dr M. Zalewski)."
+      ],
+      "publications": [],
+      "awards": [],
+      "active": true,
+      "bioParagraphs": [
+        "Dr Agnieszka Raciborska jest sotrudnikom Medicinskogo Universiteta v Białystok (UMB).",
+        "Zaposlena kako asistent v Katedrě Medičinske Biofiziky UMB; vypolnaje funkciju Koordinatora kursa."
+      ],
+      "teachingInterests": [
+        "koordinator didaktiky – organizacija i kvalitet zaniatij po biofizike na medicinskih programah"
+      ],
+      "sources": [
+        "Medyk Białostocki 2018, nr 07 (162) – spisok Nagrad Rektora",
+        "Medyk Bialostocki jun–sep 14.pdf – Nagrady Rektora 2013/2014"
+      ]
+    },
+    "staff_jk": {
+      "title": "Asistent profesor · Koordinator IT",
+      "consultingHours": "Uto 10:00–11:00",
+      "researchInterests": [
+        "koncentracija radona v vozduhu i pitnoj vode",
+        "uroven radiocesija v gribah, medu i počve",
+        "radioaktivnost torfov i mineralnyh vod",
+        "monitoring okružennoj radiacionnoj fona"
+      ],
+      "achievements": [],
+      "publications": [],
+      "awards": [],
+      "active": true,
+      "bioParagraphs": [
+        "Dr Jacek Kapała – specialist po izmerenju jonizirujučego izluchenja i radiologičnoj zaštite.",
+        "Od mnogih let svjazan s Katedroj Biofiziky; koordinator IT i investicij."
+      ],
+      "sources": [
+        "Medyk Białostocki, 8–9/2007",
+        "Medyk Białostocki, 2016",
+        "Polska Medicinska Platforma"
+      ]
+    },
+    "staff_gk": {
+      "title": "Asistent",
+      "consultingHours": "Uto 13:00–14:00",
+      "researchInterests": [],
+      "achievements": [],
+      "publications": [],
+      "awards": [],
+      "active": true,
+      "bioParagraphs": [
+        "Dr inż. Grzegorz Kulesza – asistent naučno-didaktičny v Katedrě Medičinske Biofiziky.",
+        "Specializiruje se na izmeritelnyh tehnikah, analize fiziko-himičnyh svojstv biologičnyh tkanej i podderžke laboratornoj didaktiky."
+      ],
+      "sources": [
+        "Medyk Białostocki, 8–9/2007",
+        "Materialy Katedry Biofiziky"
+      ]
+    },
+    "staff_ac": {
+      "title": "Doktorant",
+      "consultingHours": "Po dogovoru",
+      "researchInterests": [
+        "analiza vlijanja cinamovoj kisloty na sokratitelnuju aktivnost glady mišicy želudka člověka in vitro"
+      ],
+      "achievements": [
+        "Reprezentuje mladoje pokolenje učenyh, prodolžajučih biofiziologične issledovanija započete v Katedrě v 90-h godah."
+      ],
+      "publications": [],
+      "awards": [],
+      "active": true,
+      "bioParagraphs": [
+        "Dr Andrzej Chomentowski – doktorant Doktorskej Školy UMB.",
+        "V 2023 godu zdobył I mesto za prezentaciju ‘Assessment of cinnamic acid influence on contractility of gastric smooth muscles in humans’ na 6th International Medical Interdisciplinary Congress."
+      ],
+      "sources": [
+        "Medyk Białostocki, janvar 2024",
+        "Materialy Doktorskej Školy UMB"
+      ]
+    },
+    "staff_bl": {
+      "title": "Tehničny personal",
+      "consultingHours": "Po dogovoru",
+      "researchInterests": [],
+      "achievements": [],
+      "publications": [],
+      "awards": [],
+      "active": true,
+      "bioParagraphs": [
+        "Mgr Barbara Łukaszewicz – starshy laboratorny tehnik v Katedrě Medičinske Biofiziky UMB.",
+        "Zanimaje se obslugoj aparatury, pripravkoj učebnyh zaniatij i podderžkoj biofizičnyh eksperimentov."
+      ]
+    },
+    "staff_mat": {
+      "title": "Tehničny personal",
+      "consultingHours": "Po dogovoru",
+      "researchInterests": [],
+      "achievements": [],
+      "publications": [],
+      "awards": [],
+      "active": true,
+      "bioParagraphs": [
+        "Mgr inż. Marta Trzos – starshy tehnik i specialist po laboratorijam.",
+        "Odpověda za podderžku issledovatelnoj aparatury, bezpečnost pracy i pripravku učebnyh stanovišč."
+      ]
+    }
+  }
+}

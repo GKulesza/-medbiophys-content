@@ -1,0 +1,66 @@
+{
+  "schemaVersion": 1,
+  "locale": "en",
+  "resources": [
+    {
+      "id": "resource_umb_site",
+      "title": "Medical Biophysics UMB",
+      "description": "Website of the Department of Medical Biophysics at UMB."
+    },
+    {
+      "id": "resource_handbook",
+      "title": "Handbook",
+      "description": "Student handbook for the English Division."
+    },
+    {
+      "id": "resource_theory_book",
+      "title": "Theory Book",
+      "description": "Laboratory manual for the English Division biophysics course."
+    },
+    {
+      "id": "resource_biophysics_glaser",
+      "title": "Biophysics",
+      "description": "Textbook: Biophysics by Roland Glaser."
+    },
+    {
+      "id": "resource_physics_biology_medicine",
+      "title": "Physics in Biology and Medicine",
+      "description": "Textbook: Physics in Biology and Medicine by Paul Davidovits."
+    },
+    {
+      "id": "resource_fundamentals_physics",
+      "title": "Fundamentals of Physics",
+      "description": "Textbook: Fundamentals of Physics by Halliday, Resnick, and Walker."
+    },
+    {
+      "id": "resource_biophysics_intro",
+      "title": "Biophysics An Introduction",
+      "description": "Textbook: Biophysics An Introduction by Rodney Cotterill."
+    },
+    {
+      "id": "resource_final_exam_formulas",
+      "title": "Final exam formulas",
+      "description": "Formulas for the Biophysics final examination."
+    },
+    {
+      "id": "resource_medyk",
+      "title": "Medyk Białostocki",
+      "description": "Archive of the Medyk Białostocki student journal."
+    },
+    {
+      "id": "resource_popsci_video",
+      "title": "Popular science medicine MUB",
+      "description": "Medicine is a universal science that profoundly impacts everyone's life. Its complex research must be translated into popular science to meet public expectations and bridge the understanding gap."
+    },
+    {
+      "id": "resource_anki_en",
+      "title": "MedBioPhys - Medical Biophysics laboratory course deck",
+      "description": "Flashcards deck for Medical Biophysics laboratory (English Division)."
+    },
+    {
+      "id": "resource_anki_pl",
+      "title": "MedBioFiz - medical biophysics laboratory topics",
+      "description": "Flashcards deck for the medical biophysics laboratory course."
+    }
+  ]
+}

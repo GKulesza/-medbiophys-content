@@ -1,0 +1,218 @@
+{
+  "schemaVersion": 1,
+  "locale": "pl",
+  "staff": {
+    "staff_bm": {
+      "title": "Kierownik Zakładu",
+      "consultingHours": "Wt 10:00–11:00",
+      "researchInterests": [
+        "analiza mechanizmów działania leków wpływających na mięśnie gładkie",
+        "zastosowanie metod biofizycznych w farmakologii",
+        "badania nad interfejsem mózg–komputer (BCI)",
+        "fizjologię i bioelektrykę układu nerwowego"
+      ],
+      "achievements": [
+        "Promotorka prac doktorskich, opiekunka Studenckiego Koła Naukowego ‘Forum Biophysicum’ i współautorka publikacji popularyzujących naukę.",
+        "Zainicjowała zmianę nazwy jednostki na Zakład Biofizyki Medycznej (2025), podkreślając integrację nauk podstawowych z klinicznymi.",
+        "Pod jej kierownictwem Zakład wszedł w nowoczesny etap rozwoju, łącząc tradycję fizyki medycznej z badaniami nad funkcjami układu nerwowego.",
+        "Symbol nowej generacji naukowców – interdyscyplinarna, otwarta na współpracę i technologie."
+      ],
+      "publications": [],
+      "awards": [],
+      "active": true,
+      "bioParagraphs": [
+        "Dr hab. Beata Modzelewska jest kierownikiem Zakładu Biofizyki Medycznej Uniwersytetu Medycznego w Białymstoku.",
+        "Biofizyk i neurofizjolog, specjalizująca się w farmakodynamice środków rozkurczowych oraz interakcjach między układem nerwowym a czynnością mięśni gładkich."
+      ],
+      "sources": [
+        "Medyk Białostocki, 8–9/2007",
+        "Medyk Białostocki, 2024",
+        "Materiały UMB"
+      ]
+    },
+    "staff_mk": {
+      "title": "Adiunkt",
+      "consultingHours": "Po uzgodnieniu",
+      "researchInterests": [
+        "ocena narażenia ludności na promieniowanie jonizujące",
+        "pomiary stężenia radonu i radiocezu w środowisku",
+        "naturalna radioaktywność materiałów budowlanych i wód mineralnych",
+        "wpływ promieniotwórczości na zdrowie człowieka"
+      ],
+      "achievements": [],
+      "publications": [],
+      "awards": [],
+      "active": true,
+      "bioParagraphs": [
+        "Dr hab. Maria Karpińska – biofizyk specjalizujący się w ochronie radiologicznej i radioekologii środowiska.",
+        "Kierownik Zakładu Biofizyki w latach 2000–2019, kontynuując badania zapoczątkowane przez prof. E. Trembaczowskiego i prof. F. Rogowskiego."
+      ],
+      "teachingInterests": [
+        "zajęcia z biofizyki, ochrony radiologicznej i metod pomiaru promieniowania",
+        "promotorka licznych prac magisterskich i doktorskich"
+      ],
+      "sources": [
+        "Medyk Białostocki, 8–9/2007",
+        "Medyk Białostocki, 2016",
+        "Polska Platforma Medyczna (UMB)"
+      ]
+    },
+    "staff_mt": {
+      "title": "Adiunkt · Koordynator ds. nauki",
+      "consultingHours": "Wt 11:00–12:00",
+      "researchInterests": [
+        "W poszukiwaniu witaminy słońca (2022) – o znaczeniu witaminy D",
+        "Mikrobiom na straży naszej odporności (2023)",
+        "Neuroplastyczność (2023)"
+      ],
+      "achievements": [],
+      "publications": [],
+      "awards": [],
+      "active": true,
+      "bioParagraphs": [
+        "Dr hab. Marzena Tylicka – adiunkt w Zakładzie Biofizyki Medycznej, koordynator ds. nauki.",
+        "Zajmuje się dydaktyką biofizyki i popularyzacją nauki, łącząc biologię molekularną, fizjologię i zdrowie publiczne."
+      ],
+      "sources": [
+        "Medyk Białostocki, 2022–2023",
+        "Materiały Zakładu Biofizyki Medycznej UMB"
+      ]
+    },
+    "staff_tk": {
+      "title": "Adiunkt",
+      "consultingHours": "Wt 13:00–14:00",
+      "researchInterests": [
+        "modelowanie procesów biofizycznych",
+        "komputerowa analiza danych eksperymentalnych",
+        "fizjologia układu nerwowego",
+        "integracja bioinformatyki z dydaktyką"
+      ],
+      "achievements": [],
+      "publications": [],
+      "awards": [],
+      "active": true,
+      "bioParagraphs": [
+        "Dr hab. Tomasz Kleszczewski – biofizyk i dydaktyk akademicki UMB.",
+        "Specjalizuje się w metodach fizycznych i informatycznych w analizie procesów biologicznych oraz dydaktyce biofizyki."
+      ],
+      "sources": [
+        "Medyk Białostocki, 2020–2024",
+        "Lista nagrodzonych naukowców UMB (2016–2021)"
+      ]
+    },
+    "staff_ar": {
+      "title": "Adiunkt · Koordynator ds. dydaktyki",
+      "consultingHours": "Wt 13:00–14:00",
+      "researchInterests": [
+        "radioaktywność naturalnych preparatów leczniczych (ekstrakty z borowiny)",
+        "radioaktywność próbek wody z regionu Polski północno‑wschodniej",
+        "polifenole jako modulatory motoryki przewodu pokarmowego"
+      ],
+      "achievements": [
+        "2018: Nagroda Rektora II stopnia (indywidualna; jako dr Agnieszka Bielawska).",
+        "2014: Nagroda zespołowa III stopnia za badania nad radioaktywnością materiałów budowlanych oraz naturalnych preparatów leczniczych (zespół: prof. F. Rogowski, dr A. Bielawska, dr M. Karpińska, dr B. Modzelewska, dr M. Zalewski)."
+      ],
+      "publications": [],
+      "awards": [],
+      "active": true,
+      "bioParagraphs": [
+        "Dr Agnieszka Raciborska jest pracownikiem Uniwersytetu Medycznego w Białymstoku (UMB).",
+        "Zatrudniona jako adiunkt w Zakładzie Biofizyki Medycznej (Department of Biophysics) UMB; pełni funkcję Koordynatora ds. Dydaktyki."
+      ],
+      "teachingInterests": [
+        "koordynator ds. dydaktyki – organizacja i jakość zajęć z biofizyki na kierunkach medycznych"
+      ],
+      "sources": [
+        "Medyk Białostocki 2018, nr 07 (162) – lista Nagród Rektora",
+        "Medyk Bialostocki czerw-wrzes 14.pdf – Nagrody Rektora 2013/2014"
+      ]
+    },
+    "staff_jk": {
+      "title": "Adiunkt · Koordynator ds. IT i inwestycji",
+      "consultingHours": "Wt 10:00–11:00",
+      "researchInterests": [
+        "stężenie radonu w powietrzu i wodzie pitnej",
+        "poziom radiocezu w grzybach, miodzie i glebie",
+        "radioaktywność borowin i wód mineralnych",
+        "monitorowanie środowiskowego tła promieniotwórczego"
+      ],
+      "achievements": [],
+      "publications": [],
+      "awards": [],
+      "active": true,
+      "bioParagraphs": [
+        "Dr Jacek Kapała – specjalista w zakresie pomiarów promieniowania jonizującego i ochrony radiologicznej.",
+        "Od wielu lat związany z Zakładem Biofizyki; koordynator ds. IT i inwestycji."
+      ],
+      "sources": [
+        "Medyk Białostocki, 8–9/2007",
+        "Medyk Białostocki, 2016",
+        "Polska Platforma Medyczna"
+      ]
+    },
+    "staff_gk": {
+      "title": "Asystent",
+      "consultingHours": "Wt 13:00–14:00",
+      "researchInterests": [],
+      "achievements": [],
+      "publications": [],
+      "awards": [],
+      "active": true,
+      "bioParagraphs": [
+        "Dr inż. Grzegorz Kulesza – asystent naukowo-dydaktyczny w Zakładzie Biofizyki Medycznej.",
+        "Specjalizuje się w technikach pomiarowych, analizie właściwości fizykochemicznych tkanek biologicznych oraz wsparciu dydaktyki laboratoryjnej."
+      ],
+      "sources": [
+        "Medyk Białostocki, 8–9/2007",
+        "Materiały Zakładu Biofizyki"
+      ]
+    },
+    "staff_ac": {
+      "title": "Doktorant",
+      "consultingHours": "Po uzgodnieniu",
+      "researchInterests": [
+        "analiza wpływu kwasu cynamonowego na czynność skurczową mięśni gładkich żołądka in vitro"
+      ],
+      "achievements": [
+        "Reprezentuje młode pokolenie naukowców kontynuujących badania biofizjologiczne rozpoczęte w Zakładzie w latach 90."
+      ],
+      "publications": [],
+      "awards": [],
+      "active": true,
+      "bioParagraphs": [
+        "Lek. Andrzej Chomentowski – doktorant Szkoły Doktorskiej UMB.",
+        "W 2023 roku zdobył I miejsce za prezentację pracy ‘Assessment of cinnamic acid influence on contractility of gastric smooth muscles in humans’ podczas 6th International Medical Interdisciplinary Congress."
+      ],
+      "sources": [
+        "Medyk Białostocki, styczeń 2024",
+        "Materiały Szkoły Doktorskiej UMB"
+      ]
+    },
+    "staff_bl": {
+      "title": "Personel techniczny",
+      "consultingHours": "Po uzgodnieniu",
+      "researchInterests": [],
+      "achievements": [],
+      "publications": [],
+      "awards": [],
+      "active": true,
+      "bioParagraphs": [
+        "Mgr Barbara Łukaszewicz – starszy technik laboratoryjny w Zakładzie Biofizyki Medycznej UMB.",
+        "Zajmuje się obsługą aparatury, przygotowaniem zajęć dydaktycznych i wsparciem eksperymentów biofizycznych."
+      ]
+    },
+    "staff_mat": {
+      "title": "Personel techniczny",
+      "consultingHours": "Po uzgodnieniu",
+      "researchInterests": [],
+      "achievements": [],
+      "publications": [],
+      "awards": [],
+      "active": true,
+      "bioParagraphs": [
+        "Mgr inż. Marta Trzos – starszy technik i specjalista ds. laboratoriów.",
+        "Odpowiada za utrzymanie sprzętu badawczego, bezpieczeństwo pracy i przygotowanie stanowisk dydaktycznych."
+      ]
+    }
+  }
+}

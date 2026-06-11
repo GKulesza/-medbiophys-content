@@ -1,0 +1,218 @@
+{
+  "schemaVersion": 1,
+  "locale": "en",
+  "staff": {
+    "staff_bm": {
+      "title": "Head of Department",
+      "consultingHours": "Tue 10:00–11:00",
+      "researchInterests": [
+        "analysis of mechanisms of action of drugs affecting smooth muscle",
+        "application of biophysical methods in pharmacology",
+        "brain–computer interface (BCI) research",
+        "physiology and bioelectricity of the nervous system"
+      ],
+      "achievements": [
+        "Supervisor of doctoral theses, mentor of the Student Scientific Society ‘Forum Biophysicum’, and co-author of science outreach publications.",
+        "Initiated the unit's renaming to the Department of Medical Biophysics (2025), emphasizing integration of basic and clinical sciences.",
+        "Under her leadership the Department entered a modern phase of development, combining the tradition of medical physics with research on nervous system function.",
+        "Represents a new generation of scientists—interdisciplinary, open to collaboration and technology."
+      ],
+      "publications": [],
+      "awards": [],
+      "active": true,
+      "bioParagraphs": [
+        "Dr hab. Beata Modzelewska is Head of the Department of Medical Biophysics at the Medical University of Bialystok.",
+        "A biophysicist and neurophysiologist specializing in the pharmacodynamics of relaxants and interactions between the nervous system and smooth muscle activity."
+      ],
+      "sources": [
+        "Medyk Bialostocki, 8–9/2007",
+        "Medyk Bialostocki, 2024",
+        "UMB materials"
+      ]
+    },
+    "staff_mk": {
+      "title": "Assistant Professor",
+      "consultingHours": "By appointment",
+      "researchInterests": [
+        "assessment of public exposure to ionizing radiation",
+        "measurements of radon and radiocaesium concentrations in the environment",
+        "natural radioactivity of building materials and mineral waters",
+        "health effects of environmental radioactivity"
+      ],
+      "achievements": [],
+      "publications": [],
+      "awards": [],
+      "active": true,
+      "bioParagraphs": [
+        "Dr hab. Maria Karpinska is a biophysicist specializing in radiation protection and environmental radioecology.",
+        "Head of the Department of Biophysics from 2000 to 2019, continuing research begun by Prof. E. Trembaczowski and Prof. F. Rogowski."
+      ],
+      "teachingInterests": [
+        "courses in biophysics, radiation protection, and radiation measurement methods",
+        "supervisor of numerous master's and doctoral theses"
+      ],
+      "sources": [
+        "Medyk Bialostocki, 8–9/2007",
+        "Medyk Bialostocki, 2016",
+        "Polish Medical Platform (UMB)"
+      ]
+    },
+    "staff_mt": {
+      "title": "Assistant Professor · Research Coordinator",
+      "consultingHours": "Tue 11:00–12:00",
+      "researchInterests": [
+        "In search of the sunshine vitamin (2022) – on the importance of vitamin D",
+        "The microbiome guarding our immunity (2023)",
+        "Neuroplasticity (2023)"
+      ],
+      "achievements": [],
+      "publications": [],
+      "awards": [],
+      "active": true,
+      "bioParagraphs": [
+        "Dr hab. Marzena Tylicka is an assistant professor in the Department of Medical Biophysics and research coordinator.",
+        "She teaches biophysics and popularizes science, linking molecular biology, physiology, and public health."
+      ],
+      "sources": [
+        "Medyk Bialostocki, 2022–2023",
+        "Department of Medical Biophysics, UMB materials"
+      ]
+    },
+    "staff_tk": {
+      "title": "Assistant Professor",
+      "consultingHours": "Tue 13:00–14:00",
+      "researchInterests": [
+        "modeling of biophysical processes",
+        "computer analysis of experimental data",
+        "physiology of the nervous system",
+        "integrating bioinformatics with teaching"
+      ],
+      "achievements": [],
+      "publications": [],
+      "awards": [],
+      "active": true,
+      "bioParagraphs": [
+        "Dr hab. Tomasz Kleszczewski is a biophysicist and academic lecturer at UMB.",
+        "He specializes in physical and computational methods for analyzing biological processes and in biophysics education."
+      ],
+      "sources": [
+        "Medyk Bialostocki, 2020–2024",
+        "UMB list of awarded scientists (2016–2021)"
+      ]
+    },
+    "staff_ar": {
+      "title": "Assistant Professor · Course Coordinator",
+      "consultingHours": "Tue 13:00–14:00",
+      "researchInterests": [
+        "natural radioactivity of medicinal preparations (peat extracts)",
+        "radioactivity of water samples from northeastern Poland",
+        "polyphenols as modulators of gastrointestinal motility"
+      ],
+      "achievements": [
+        "2018: Rector's Award, second degree (individual; as Dr Agnieszka Bielawska).",
+        "2014: Third-degree team award for studies on radioactivity of building materials and natural medicinal preparations (team: Prof. F. Rogowski, Dr A. Bielawska, Dr M. Karpinska, Dr B. Modzelewska, Dr M. Zalewski)."
+      ],
+      "publications": [],
+      "awards": [],
+      "active": true,
+      "bioParagraphs": [
+        "Dr Agnieszka Raciborska is a staff member of the Medical University of Bialystok (UMB).",
+        "She works as an assistant professor in the Department of Medical Biophysics and serves as Course Coordinator."
+      ],
+      "teachingInterests": [
+        "course coordination—organization and quality of biophysics classes for medical degree programs"
+      ],
+      "sources": [
+        "Medyk Bialostocki 2018, no. 07 (162) – Rector's Awards list",
+        "Medyk Bialostocki Jun–Sep 14.pdf – Rector's Awards 2013/2014"
+      ]
+    },
+    "staff_jk": {
+      "title": "Assistant Professor · IT & Investments Coordinator",
+      "consultingHours": "Tue 10:00–11:00",
+      "researchInterests": [
+        "radon concentration in air and drinking water",
+        "radiocaesium levels in mushrooms, honey, and soil",
+        "radioactivity of peat and mineral waters",
+        "monitoring of environmental radiation background"
+      ],
+      "achievements": [],
+      "publications": [],
+      "awards": [],
+      "active": true,
+      "bioParagraphs": [
+        "Dr Jacek Kapala is a specialist in ionizing radiation measurements and radiation protection.",
+        "He has long been associated with the Department of Biophysics and coordinates IT and investments."
+      ],
+      "sources": [
+        "Medyk Bialostocki, 8–9/2007",
+        "Medyk Bialostocki, 2016",
+        "Polish Medical Platform"
+      ]
+    },
+    "staff_gk": {
+      "title": "Assistant",
+      "consultingHours": "Tue 13:00–14:00",
+      "researchInterests": [],
+      "achievements": [],
+      "publications": [],
+      "awards": [],
+      "active": true,
+      "bioParagraphs": [
+        "Dr inz. Grzegorz Kulesza is a scientific and teaching assistant in the Department of Medical Biophysics.",
+        "He specializes in measurement techniques, analysis of physicochemical properties of biological tissues, and support for laboratory teaching."
+      ],
+      "sources": [
+        "Medyk Bialostocki, 8–9/2007",
+        "Department of Biophysics materials"
+      ]
+    },
+    "staff_ac": {
+      "title": "PhD Student",
+      "consultingHours": "By appointment",
+      "researchInterests": [
+        "analysis of the effect of cinnamic acid on contractile activity of human gastric smooth muscle in vitro"
+      ],
+      "achievements": [
+        "Represents a young generation of scientists continuing biophysiological research begun in the Department in the 1990s."
+      ],
+      "publications": [],
+      "awards": [],
+      "active": true,
+      "bioParagraphs": [
+        "Dr Andrzej Chomentowski is a doctoral student at the UMB Doctoral School.",
+        "In 2023 he won first place for presenting ‘Assessment of cinnamic acid influence on contractility of gastric smooth muscles in humans’ at the 6th International Medical Interdisciplinary Congress."
+      ],
+      "sources": [
+        "Medyk Bialostocki, January 2024",
+        "UMB Doctoral School materials"
+      ]
+    },
+    "staff_bl": {
+      "title": "Technical Staff",
+      "consultingHours": "By appointment",
+      "researchInterests": [],
+      "achievements": [],
+      "publications": [],
+      "awards": [],
+      "active": true,
+      "bioParagraphs": [
+        "MSc Barbara Lukaszewicz is a senior laboratory technician in the Department of Medical Biophysics at UMB.",
+        "She operates equipment, prepares teaching sessions, and supports biophysical experiments."
+      ]
+    },
+    "staff_mat": {
+      "title": "Technical Staff",
+      "consultingHours": "By appointment",
+      "researchInterests": [],
+      "achievements": [],
+      "publications": [],
+      "awards": [],
+      "active": true,
+      "bioParagraphs": [
+        "MSc inz. Marta Trzos is a senior technician and laboratory specialist.",
+        "She maintains research equipment, workplace safety, and preparation of teaching stations."
+      ]
+    }
+  }
+}

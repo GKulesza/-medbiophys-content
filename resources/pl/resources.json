@@ -1,0 +1,66 @@
+{
+  "schemaVersion": 1,
+  "locale": "pl",
+  "resources": [
+    {
+      "id": "resource_umb_site",
+      "title": "Biofizyka Medyczna UMB",
+      "description": "Strona Zakładu Biofizyki Medycznej UMB."
+    },
+    {
+      "id": "resource_handbook",
+      "title": "Handbook",
+      "description": "Podręcznik studenta English Division."
+    },
+    {
+      "id": "resource_theory_book",
+      "title": "Theory Book",
+      "description": "Podręcznik do ćwiczeń z biofizyki dla kierunku English Division."
+    },
+    {
+      "id": "resource_biophysics_glaser",
+      "title": "Biophysics",
+      "description": "Podręcznik Biophysics autorstwa Rolanda Glasera."
+    },
+    {
+      "id": "resource_physics_biology_medicine",
+      "title": "Physics in Biology and Medicine",
+      "description": "Podręcznik Physics in Biology and Medicine autorstwa Paula Davidovitsa."
+    },
+    {
+      "id": "resource_fundamentals_physics",
+      "title": "Fundamentals of Physics",
+      "description": "Podręcznik Fundamentals of Physics autorstwa Hallidaya, Resnicka i Walkera."
+    },
+    {
+      "id": "resource_biophysics_intro",
+      "title": "Biophysics An Introduction",
+      "description": "Podręcznik Biophysics An Introduction autorstwa Rodneya Cotterilla."
+    },
+    {
+      "id": "resource_final_exam_formulas",
+      "title": "Wzory na egzamin końcowy",
+      "description": "Wzory na egzamin końcowy z biofizyki."
+    },
+    {
+      "id": "resource_medyk",
+      "title": "Medyk Białostocki",
+      "description": "Strona z archiwum czasopism Medyk Białostocki."
+    },
+    {
+      "id": "resource_popsci_video",
+      "title": "Popular science medicine MUB",
+      "description": "Medycyna to uniwersalna nauka, która głęboko wpływa na życie każdego człowieka. Jej złożone badania muszą być przekładane na język popularnonaukowy, aby sprostać oczekiwaniom społeczeństwa i wypełnić lukę w zrozumieniu."
+    },
+    {
+      "id": "resource_anki_en",
+      "title": "MedBioPhys - talia do laboratorium biofizyki medycznej",
+      "description": "Talia fiszek do laboratorium biofizyki medycznej (English Division)."
+    },
+    {
+      "id": "resource_anki_pl",
+      "title": "MedBioFiz - zagadnienia do laboratorium biofizyki medycznej",
+      "description": "Talia fiszek do laboratorium biofizyki medycznej."
+    }
+  ]
+}

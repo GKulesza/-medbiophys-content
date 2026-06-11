@@ -1,0 +1,369 @@
+{
+  "schemaVersion": 1,
+  "contentSetId": "2026-spring-content-v2",
+  "publishedAt": "2026-06-10T12:00:00Z",
+  "minAppVersion": "1.0.0",
+  "baseUrl": "https://raw.githubusercontent.com/KuuuGR/MedBioPhys/flutter-migration/medbiophys-content",
+  "entries": [
+    {
+      "id": "news/en",
+      "path": "news/en/feed.json",
+      "version": "4",
+      "sha256": "fa56aabdb9c802870438e98a6e60c5ff05db273708e9482ce0c5ac3618cc39fd",
+      "sizeBytes": 13919,
+      "locale": "en"
+    },
+    {
+      "id": "news/pl",
+      "path": "news/pl/feed.json",
+      "version": "4",
+      "sha256": "dffe052cb397742da3ed717f23da12c3a8584077020e67b5c4aa7c487dd25388",
+      "sizeBytes": 10513,
+      "locale": "pl"
+    },
+    {
+      "id": "news/es",
+      "path": "news/es/feed.json",
+      "version": "4",
+      "sha256": "5dd064f3918103fec137451a24d4b2f53d5ac89378564c2ac6b08c1e28e648b6",
+      "sizeBytes": 9920,
+      "locale": "es"
+    },
+    {
+      "id": "news/eo",
+      "path": "news/eo/feed.json",
+      "version": "4",
+      "sha256": "c25b1d539b20ffe168e9accc2edc129577e08f7812358be44149e04bc327df7e",
+      "sizeBytes": 8833,
+      "locale": "eo"
+    },
+    {
+      "id": "news/isv",
+      "path": "news/isv/feed.json",
+      "version": "4",
+      "sha256": "485ae5848c3efd933e7d2fbeefc5795c354fbad1fc22cc20b15b04241a4443ab",
+      "sizeBytes": 9126,
+      "locale": "isv"
+    },
+    {
+      "id": "history/en/history",
+      "path": "history/en/history.md",
+      "version": "1",
+      "sha256": "344bcd124f298d0b526f854f515034814dc9ecc50eb479c99c0ffa14f0d813d6",
+      "sizeBytes": 2653,
+      "locale": "en"
+    },
+    {
+      "id": "history/pl/history",
+      "path": "history/pl/history.md",
+      "version": "1",
+      "sha256": "ca7a0c02e906115ab04b75ff61c9046384d4e16d3bda21b2564118a429632a65",
+      "sizeBytes": 2822,
+      "locale": "pl"
+    },
+    {
+      "id": "history/es/history",
+      "path": "history/es/history.md",
+      "version": "1",
+      "sha256": "9e4dab413eb9345b0b8cc769f5d599544a5481d911ef407849f40493545d6c9a",
+      "sizeBytes": 2973,
+      "locale": "es"
+    },
+    {
+      "id": "history/eo/history",
+      "path": "history/eo/history.md",
+      "version": "1",
+      "sha256": "09e977c399918aaee8d2d39bac85c12f59bf441a4eb1a522456fa12db3b6d586",
+      "sizeBytes": 2570,
+      "locale": "eo"
+    },
+    {
+      "id": "history/isv/history",
+      "path": "history/isv/history.md",
+      "version": "1",
+      "sha256": "bbb1d701b44c70f79d8a0ec3d5db2d1e0c546b723f8646b434ec86cf5f7383d3",
+      "sizeBytes": 2569,
+      "locale": "isv"
+    },
+    {
+      "id": "resources/en",
+      "path": "resources/en/resources.json",
+      "version": "1",
+      "sha256": "7a1e182723e84a0daea5dd4fdd0096ae98a95518214af11b1cdad157ebdad380",
+      "sizeBytes": 2290,
+      "locale": "en"
+    },
+    {
+      "id": "resources/pl",
+      "path": "resources/pl/resources.json",
+      "version": "1",
+      "sha256": "0657398daada0318dbc0e31c0e9af9be8f29367f0b9f62dc865e949496f8edfb",
+      "sizeBytes": 2355,
+      "locale": "pl"
+    },
+    {
+      "id": "resources/es",
+      "path": "resources/es/resources.json",
+      "version": "1",
+      "sha256": "4ade5c09d87525154d1ac8a2c4fd74ec226e4121e0d6a5f8247a0cbf12330b32",
+      "sizeBytes": 2394,
+      "locale": "es"
+    },
+    {
+      "id": "resources/eo",
+      "path": "resources/eo/resources.json",
+      "version": "1",
+      "sha256": "d0644f7e00569587a3825afa2eaf39f474be44e0c921fb2def5ac37d2208f632",
+      "sizeBytes": 2324,
+      "locale": "eo"
+    },
+    {
+      "id": "resources/isv",
+      "path": "resources/isv/resources.json",
+      "version": "1",
+      "sha256": "998b08d2ea71e6f3beaa41ca5ee1a72d192440b0c6359a7ff488603917072738",
+      "sizeBytes": 2320,
+      "locale": "isv"
+    },
+    {
+      "id": "staff/en",
+      "path": "staff/en/staff.json",
+      "version": "2",
+      "sha256": "5789e2cdbb4745bae2fef458fc4a31af051d9875bbfceaf103cc354d7cc3c311",
+      "sizeBytes": 9113,
+      "locale": "en"
+    },
+    {
+      "id": "staff/pl",
+      "path": "staff/pl/staff.json",
+      "version": "2",
+      "sha256": "9a1c1ceddee4c06f9d61f18f4de738392b782c144edd8acff5bc53bcd4b4c27b",
+      "sizeBytes": 9195,
+      "locale": "pl"
+    },
+    {
+      "id": "staff/es",
+      "path": "staff/es/staff.json",
+      "version": "2",
+      "sha256": "77beb82aa2a07b4fcea0e754ab5487e459fd579baa975d0d329bc4134cdeea95",
+      "sizeBytes": 9571,
+      "locale": "es"
+    },
+    {
+      "id": "staff/eo",
+      "path": "staff/eo/staff.json",
+      "version": "2",
+      "sha256": "04eaa76fd21e606b64f6a4e4d41bb4ee0647568442fef123c6b13884ad1b0a2b",
+      "sizeBytes": 8919,
+      "locale": "eo"
+    },
+    {
+      "id": "staff/isv",
+      "path": "staff/isv/staff.json",
+      "version": "2",
+      "sha256": "3524a0ebabb56268b121e2f5a5a6854ce2cf61d09a9c1c6bfcabf77b51c80b2d",
+      "sizeBytes": 8986,
+      "locale": "isv"
+    },
+    {
+      "id": "regulations/en/regulations",
+      "path": "regulations/en/regulations.md",
+      "version": "1",
+      "sha256": "08c1b888cddd5ea1070316ff14aec766efa971c4c77759c172fd2d8603ac2d6a",
+      "sizeBytes": 2591,
+      "locale": "en"
+    },
+    {
+      "id": "regulations/en/safety",
+      "path": "regulations/en/safety.md",
+      "version": "1",
+      "sha256": "daa7372693a149a1c70afdd6d80d9aa8c3f79af7b259a90a2b985cf010258ec2",
+      "sizeBytes": 1891,
+      "locale": "en"
+    },
+    {
+      "id": "regulations/en/assessment",
+      "path": "regulations/en/assessment.md",
+      "version": "1",
+      "sha256": "5e2f6544ecafc2383dfdd71104ca0d0e4ce283c1a4b78335ac8a959a25104c2f",
+      "sizeBytes": 1757,
+      "locale": "en"
+    },
+    {
+      "id": "regulations/en/exam",
+      "path": "regulations/en/exam.md",
+      "version": "1",
+      "sha256": "bb8313c2a29e4e18037311fc1f12bf28c2913ec9b6ac070ada3375f2ba3eb3a8",
+      "sizeBytes": 2068,
+      "locale": "en"
+    },
+    {
+      "id": "regulations/en/syllabus",
+      "path": "regulations/en/syllabus.md",
+      "version": "1",
+      "sha256": "3719b3a5236721a8efd467c55c6066c7622439cc6cfbcaa24e3ed462b3f66082",
+      "sizeBytes": 4757,
+      "locale": "en"
+    },
+    {
+      "id": "regulations/pl/regulations",
+      "path": "regulations/pl/regulations.md",
+      "version": "1",
+      "sha256": "3e50a68f2f0b4bc83810f361dd67c0db93d18773cf4551def5b08281ae7c31c3",
+      "sizeBytes": 2793,
+      "locale": "pl"
+    },
+    {
+      "id": "regulations/pl/safety",
+      "path": "regulations/pl/safety.md",
+      "version": "1",
+      "sha256": "5e2d3198d562d2ec6f0c9c4a0f0f4fd1852fa54546f916902977cbffae3c83e2",
+      "sizeBytes": 1966,
+      "locale": "pl"
+    },
+    {
+      "id": "regulations/pl/assessment",
+      "path": "regulations/pl/assessment.md",
+      "version": "1",
+      "sha256": "968edaf224c32f405f6ace2b0f3d6678f3efb1e0c7f81a8994f8dbb708b1d540",
+      "sizeBytes": 1817,
+      "locale": "pl"
+    },
+    {
+      "id": "regulations/pl/exam",
+      "path": "regulations/pl/exam.md",
+      "version": "1",
+      "sha256": "307c0190c117104fe013702dc31120c47ae791da8065f8bb5f8d924acf20f4f9",
+      "sizeBytes": 2151,
+      "locale": "pl"
+    },
+    {
+      "id": "regulations/pl/syllabus",
+      "path": "regulations/pl/syllabus.md",
+      "version": "1",
+      "sha256": "5b76cba1e330a35be544c19df4d790cc5197d9d4010453033dd806e4b3534182",
+      "sizeBytes": 5003,
+      "locale": "pl"
+    },
+    {
+      "id": "regulations/es/regulations",
+      "path": "regulations/es/regulations.md",
+      "version": "1",
+      "sha256": "1cd3550feba6a3408a6b01c94027a8484200ee72a5f44a2de28891c4d3831b79",
+      "sizeBytes": 3141,
+      "locale": "es"
+    },
+    {
+      "id": "regulations/es/safety",
+      "path": "regulations/es/safety.md",
+      "version": "1",
+      "sha256": "5f686a134f2595610bf7b20e55f94ff5e7b94a492e4d2f68842d253b0beddf39",
+      "sizeBytes": 2148,
+      "locale": "es"
+    },
+    {
+      "id": "regulations/es/assessment",
+      "path": "regulations/es/assessment.md",
+      "version": "1",
+      "sha256": "74452bc4e49869fba92cd96bede1eed1d4f46359e10cb6a8cc03a2678fc8157c",
+      "sizeBytes": 2091,
+      "locale": "es"
+    },
+    {
+      "id": "regulations/es/exam",
+      "path": "regulations/es/exam.md",
+      "version": "1",
+      "sha256": "286220e863ae673abbd9b0fae8d94b83ca6837cffb95d04ca2d21d9b5cd248ad",
+      "sizeBytes": 2386,
+      "locale": "es"
+    },
+    {
+      "id": "regulations/es/syllabus",
+      "path": "regulations/es/syllabus.md",
+      "version": "1",
+      "sha256": "438ec1374d7fd1c231349797e3ecb561dc94d523a6d9095e4d86e410e439c0c1",
+      "sizeBytes": 5473,
+      "locale": "es"
+    },
+    {
+      "id": "regulations/eo/regulations",
+      "path": "regulations/eo/regulations.md",
+      "version": "1",
+      "sha256": "71494d4993a54686cb2e25d0df1a0186461e73f2d9dca5fe3dc44cf69a905c80",
+      "sizeBytes": 2713,
+      "locale": "eo"
+    },
+    {
+      "id": "regulations/eo/safety",
+      "path": "regulations/eo/safety.md",
+      "version": "1",
+      "sha256": "c52765d6a30f493a92c42e9b8867e2f1032206a4eee2d9c5a198ae3f41c8f376",
+      "sizeBytes": 1902,
+      "locale": "eo"
+    },
+    {
+      "id": "regulations/eo/assessment",
+      "path": "regulations/eo/assessment.md",
+      "version": "1",
+      "sha256": "9545e12c7b3caef95bae46173641dce0fe2bed4c39d9d47e55b885e7bcd3596c",
+      "sizeBytes": 1812,
+      "locale": "eo"
+    },
+    {
+      "id": "regulations/eo/exam",
+      "path": "regulations/eo/exam.md",
+      "version": "1",
+      "sha256": "3b3a9b8d33ead000c91cfd9f007b59464c30f55c73412b72aa7d0c13e0b985d7",
+      "sizeBytes": 2142,
+      "locale": "eo"
+    },
+    {
+      "id": "regulations/eo/syllabus",
+      "path": "regulations/eo/syllabus.md",
+      "version": "1",
+      "sha256": "894ff4ae95f51e0f0096e2cbde09d9582c2554893015890d504762f94478acaf",
+      "sizeBytes": 4676,
+      "locale": "eo"
+    },
+    {
+      "id": "regulations/isv/regulations",
+      "path": "regulations/isv/regulations.md",
+      "version": "1",
+      "sha256": "5f5e504b5fb8b778f6ad9e2ae621ad0722044b8c6722f0f30d932252045e5d48",
+      "sizeBytes": 2638,
+      "locale": "isv"
+    },
+    {
+      "id": "regulations/isv/safety",
+      "path": "regulations/isv/safety.md",
+      "version": "1",
+      "sha256": "be053b7c954d1c1773c497c2c4acf4a9973fbddbde134212788bce774a07fcc3",
+      "sizeBytes": 1843,
+      "locale": "isv"
+    },
+    {
+      "id": "regulations/isv/assessment",
+      "path": "regulations/isv/assessment.md",
+      "version": "1",
+      "sha256": "0cb1e922dc22450cc599611b7321926807abd90443520c52b602d8784d30da62",
+      "sizeBytes": 1774,
+      "locale": "isv"
+    },
+    {
+      "id": "regulations/isv/exam",
+      "path": "regulations/isv/exam.md",
+      "version": "1",
+      "sha256": "95595ae2b32e52311873da031827c49586fbdd8faef2750603ce62aa1b6617fd",
+      "sizeBytes": 2198,
+      "locale": "isv"
+    },
+    {
+      "id": "regulations/isv/syllabus",
+      "path": "regulations/isv/syllabus.md",
+      "version": "1",
+      "sha256": "ced755256e7a54b4a883f90e0b868f5449ed1487f82d27859bc534307200fd9c",
+      "sizeBytes": 4791,
+      "locale": "isv"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "locale": "en",
+  "items": [
+    {
+      "id": "news-remote-sync-demo-2026",
+      "title": "[TEST] Remote content sync is active",
+      "publishedAt": "2026-03-15T10:00:00Z",
+      "markdownBody": "# [TEST] Remote content sync\n\n![[TEST] Remote content sync is active](images/conference_2026.png)\n\n> **Development/testing item.** This entry lives in `medbiophys-content/testing/` and is **not** part of the production manifest.\n\nThis news item is delivered from the **medbiophys-content** GitHub repository after manifest sync.\n\nIt does not ship inside the app bundle, which confirms that the remote cache layer is working."
+    }
+  ],
+  "contentPurpose": "integration-testing"
+}

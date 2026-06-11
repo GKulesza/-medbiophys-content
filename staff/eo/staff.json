@@ -1,0 +1,218 @@
+{
+  "schemaVersion": 1,
+  "locale": "eo",
+  "staff": {
+    "staff_bm": {
+      "title": "Estro de la Fako",
+      "consultingHours": "Mar 10:00–11:00",
+      "researchInterests": [
+        "analizo de mekanismoj de agado de medikamentoj influintaj glatan muskolon",
+        "apliko de biofizikaj metodoj en farmakologio",
+        "esplorado de cerbo–komputila interfaco (BCI)",
+        "fiziologio kaj bioelekteco de la nerva sistemo"
+      ],
+      "achievements": [
+        "Promocistino de doktorigaj tezoj, gvidantino de la Studenta Scienca Societo ‘Forum Biophysicum’ kaj kunautorino de popularigaj sciencaj publikigaĵoj.",
+        "Iniciatis la alinomiĝon de la unuo al Fako de Medicina Biofiziko (2025), emfazante integrigon de bazaj kaj klinikaj sciencoj.",
+        "Sub ŝia gvidado la Fako eniris modernan evoluofazon, kunigante tradicion de medicina fiziko kun esplorado de nerva sistemo.",
+        "Simbolo de nova generacio da sciencistoj—interdisciplina, malferma al kunlaboro kaj teknologio."
+      ],
+      "publications": [],
+      "awards": [],
+      "active": true,
+      "bioParagraphs": [
+        "Dr hab. Beata Modzelewska estas estro de la Fako de Medicina Biofiziko ĉe la Medicina Universitato en Białystok.",
+        "Biofizikistino kaj neurofiziologino, specialiĝinta pri farmakodinamiko de relaxigiloj kaj interagoj inter la nerva sistemo kaj glata muskola aktiveco."
+      ],
+      "sources": [
+        "Medyk Białostocki, 8–9/2007",
+        "Medyk Białostocki, 2024",
+        "UMB-materialoj"
+      ]
+    },
+    "staff_mk": {
+      "title": "Adjunkto",
+      "consultingHours": "Laŭ interkonsento",
+      "researchInterests": [
+        "taksado de ekspozicio de la populacio al joniganta radiado",
+        "mezurado de koncentriĝoj de radono kaj radiocesio en la medio",
+        "natura radioaktiveco de konstrumaterialoj kaj mineralaj akvoj",
+        "influo de media radioaktiveco sur homa sano"
+      ],
+      "achievements": [],
+      "publications": [],
+      "awards": [],
+      "active": true,
+      "bioParagraphs": [
+        "Dr hab. Maria Karpińska estas biofizikistino specialiĝinta pri radioprotekto kaj media radioekologio.",
+        "Estro de la Fako de Biofiziko de 2000 ĝis 2019, daŭrigante esplorojn komencitajn de prof. E. Trembaczowski kaj prof. F. Rogowski."
+      ],
+      "teachingInterests": [
+        "instruado pri biofiziko, radioprotekto kaj metodoj por mezuri radiadon",
+        "promocistino de multaj magistraj kaj doktorigaj tezoj"
+      ],
+      "sources": [
+        "Medyk Białostocki, 8–9/2007",
+        "Medyk Białostocki, 2016",
+        "Pola Medicina Platformo (UMB)"
+      ]
+    },
+    "staff_mt": {
+      "title": "Adjunkto · Scienco-koordinanto",
+      "consultingHours": "Mar 11:00–12:00",
+      "researchInterests": [
+        "Serĉante la sunan vitamino (2022) – pri la graveco de vitamino D",
+        "La mikrobiomo gardante nian imunecon (2023)",
+        "Neuroplasticeco (2023)"
+      ],
+      "achievements": [],
+      "publications": [],
+      "awards": [],
+      "active": true,
+      "bioParagraphs": [
+        "Dr hab. Marzena Tylicka estas adjunkto ĉe la Fako de Medicina Biofiziko kaj scienco-koordinanto.",
+        "Ŝi instruas biofizikon kaj popularigas sciencon, kunigante molekulan biologion, fiziologion kaj publikan sanon."
+      ],
+      "sources": [
+        "Medyk Białostocki, 2022–2023",
+        "Materialoj de la Fako de Medicina Biofiziko UMB"
+      ]
+    },
+    "staff_tk": {
+      "title": "Adjunkto",
+      "consultingHours": "Mar 13:00–14:00",
+      "researchInterests": [
+        "modelado de biofizikaj procezoj",
+        "komputila analizo de eksperimentaj datumoj",
+        "fiziologio de la nerva sistemo",
+        "integrado de bioinformatico kun instruado"
+      ],
+      "achievements": [],
+      "publications": [],
+      "awards": [],
+      "active": true,
+      "bioParagraphs": [
+        "Dr hab. Tomasz Kleszczewski estas biofizikisto kaj universitata instruisto ĉe UMB.",
+        "Li specialiĝas pri fizikaj kaj informaticaj metodoj por analizi biologiajn procezojn kaj pri instruado de biofiziko."
+      ],
+      "sources": [
+        "Medyk Białostocki, 2020–2024",
+        "Listo de premiitaj sciencistoj UMB (2016–2021)"
+      ]
+    },
+    "staff_ar": {
+      "title": "Adjunkto · Kurs-koordinanto",
+      "consultingHours": "Mar 13:00–14:00",
+      "researchInterests": [
+        "natura radioaktiveco de medicinaj preparaĵoj (torfekstraktoj)",
+        "radioaktiveco de akvaj specimenoj el nordorienta Pollando",
+        "polifenoloj kiel moduligantoj de gastrointestinala motileco"
+      ],
+      "achievements": [
+        "2018: Rektorpremio de dua grado (individua; kiel Dr Agnieszka Bielawska).",
+        "2014: Tria-grada teama premio por esploroj pri radioaktiveco de konstrumaterialoj kaj naturaj medicinaj preparaĵoj (teamo: prof. F. Rogowski, Dr A. Bielawska, Dr M. Karpińska, Dr B. Modzelewska, Dr M. Zalewski)."
+      ],
+      "publications": [],
+      "awards": [],
+      "active": true,
+      "bioParagraphs": [
+        "Dr Agnieszka Raciborska estas laboranto de la Medicina Universitato en Białystok (UMB).",
+        "Ŝi laboras kiel adjunkto ĉe la Fako de Medicina Biofiziko kaj plenumas la rolon de Kurs-koordinanto."
+      ],
+      "teachingInterests": [
+        "kurs-koordinado—organizado kaj kvalito de biofizikaj instruoj por medicinaj programoj"
+      ],
+      "sources": [
+        "Medyk Białostocki 2018, nr 07 (162) – listo de Rektorpremioj",
+        "Medyk Bialostocki jun–sep 14.pdf – Rektorpremioj 2013/2014"
+      ]
+    },
+    "staff_jk": {
+      "title": "Adjunkto · IT-koordinanto",
+      "consultingHours": "Mar 10:00–11:00",
+      "researchInterests": [
+        "radon-koncentriĝo en aero kaj trinkakvo",
+        "radiocesio-nivelo en fungoj, mielo kaj grundo",
+        "radioaktiveco de torfo kaj mineralaj akvoj",
+        "monitorado de media radiada fono"
+      ],
+      "achievements": [],
+      "publications": [],
+      "awards": [],
+      "active": true,
+      "bioParagraphs": [
+        "Dr Jacek Kapała estas specialisto pri mezurado de joniganta radiado kaj radioprotekto.",
+        "Li longe estas ligita al la Fako de Biofiziko; koordinanto por IT kaj investoj."
+      ],
+      "sources": [
+        "Medyk Białostocki, 8–9/2007",
+        "Medyk Białostocki, 2016",
+        "Pola Medicina Platformo"
+      ]
+    },
+    "staff_gk": {
+      "title": "Asistanto",
+      "consultingHours": "Mar 13:00–14:00",
+      "researchInterests": [],
+      "achievements": [],
+      "publications": [],
+      "awards": [],
+      "active": true,
+      "bioParagraphs": [
+        "Dr inż. Grzegorz Kulesza estas scienca kaj instrua asistanto ĉe la Fako de Medicina Biofiziko.",
+        "Li specialiĝas pri mezurteknikoj, analizo de fizik-kemiaj ecoj de biologiaj histoj kaj subteno de laboratoria instruado."
+      ],
+      "sources": [
+        "Medyk Białostocki, 8–9/2007",
+        "Materialoj de la Fako de Biofiziko"
+      ]
+    },
+    "staff_ac": {
+      "title": "Doktorando",
+      "consultingHours": "Laŭ interkonsento",
+      "researchInterests": [
+        "analizo de influo de cinama acido sur kontraktebleco de homa gastric glata muskolo in vitro"
+      ],
+      "achievements": [
+        "Reprezentas junan generacion da sciencistoj daŭrigantaj biofiziologiajn esplorojn komencitajn en la Fako en la 1990-aj jaroj."
+      ],
+      "publications": [],
+      "awards": [],
+      "active": true,
+      "bioParagraphs": [
+        "Dr Andrzej Chomentowski estas doktorando ĉe la UMB Doktora Lernejo.",
+        "En 2023 li gajnis la unuan lokon por prezento ‘Assessment of cinnamic acid influence on contractility of gastric smooth muscles in humans’ ĉe la 6th International Medical Interdisciplinary Congress."
+      ],
+      "sources": [
+        "Medyk Białostocki, januaro 2024",
+        "Materialoj de la UMB Doktora Lernejo"
+      ]
+    },
+    "staff_bl": {
+      "title": "Teknika persono",
+      "consultingHours": "Laŭ interkonsento",
+      "researchInterests": [],
+      "achievements": [],
+      "publications": [],
+      "awards": [],
+      "active": true,
+      "bioParagraphs": [
+        "Mgr Barbara Łukaszewicz estas seniora laboratoria teknikistino ĉe la Fako de Medicina Biofiziko UMB.",
+        "Ŝi servas aparataron, preparas instruajn sesiojn kaj subtenas biofizikajn eksperimentojn."
+      ]
+    },
+    "staff_mat": {
+      "title": "Teknika persono",
+      "consultingHours": "Laŭ interkonsento",
+      "researchInterests": [],
+      "achievements": [],
+      "publications": [],
+      "awards": [],
+      "active": true,
+      "bioParagraphs": [
+        "Mgr inż. Marta Trzos estas seniora teknikistino kaj laboratorio-specialisto.",
+        "Ŝi prizorgas esplor-aparataron, labsekurecon kaj preparadon de instruaj stacioj."
+      ]
+    }
+  }
+}

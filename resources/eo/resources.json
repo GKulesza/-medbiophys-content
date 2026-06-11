@@ -1,0 +1,66 @@
+{
+  "schemaVersion": 1,
+  "locale": "eo",
+  "resources": [
+    {
+      "id": "resource_umb_site",
+      "title": "Medicina Biofiziko UMB",
+      "description": "Retejo de la Fako de Medicina Biofiziko ĉe UMB."
+    },
+    {
+      "id": "resource_handbook",
+      "title": "Handbook",
+      "description": "Studenta manlibro por la English Division."
+    },
+    {
+      "id": "resource_theory_book",
+      "title": "Theory Book",
+      "description": "Laboratoria manlibro por la biofizika kurso de la English Division."
+    },
+    {
+      "id": "resource_biophysics_glaser",
+      "title": "Biophysics",
+      "description": "Lernolibro: Biophysics de Roland Glaser."
+    },
+    {
+      "id": "resource_physics_biology_medicine",
+      "title": "Physics in Biology and Medicine",
+      "description": "Lernolibro: Physics in Biology and Medicine de Paul Davidovits."
+    },
+    {
+      "id": "resource_fundamentals_physics",
+      "title": "Fundamentals of Physics",
+      "description": "Lernolibro: Fundamentals of Physics de Halliday, Resnick kaj Walker."
+    },
+    {
+      "id": "resource_biophysics_intro",
+      "title": "Biophysics An Introduction",
+      "description": "Lernolibro: Biophysics An Introduction de Rodney Cotterill."
+    },
+    {
+      "id": "resource_final_exam_formulas",
+      "title": "Formuloj por la fina ekzameno",
+      "description": "Formuloj por la fina ekzameno el Biofiziko."
+    },
+    {
+      "id": "resource_medyk",
+      "title": "Medyk Białostocki",
+      "description": "Arĥivo de la studenta gazeto Medyk Białostocki."
+    },
+    {
+      "id": "resource_popsci_video",
+      "title": "Popular science medicine MUB",
+      "description": "Medicino estas universala scienco, kiu profunde influas la vivon de ĉiu homo. Ĝia kompleksa esplorado devas esti tradukita al populara scienco por plenumi publikajn atendojn kaj plenigi la komprenan interspacon."
+    },
+    {
+      "id": "resource_anki_en",
+      "title": "MedBioPhys - kartaro por la laboratorio de medicina biofiziko",
+      "description": "Kartaro por la laboratorio de Medicina Biofiziko (English Division)."
+    },
+    {
+      "id": "resource_anki_pl",
+      "title": "MedBioFiz - temoj por la laboratorio de medicina biofiziko",
+      "description": "Kartaro por la laboratorio de medicina biofiziko."
+    }
+  ]
+}
