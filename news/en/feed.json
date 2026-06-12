@@ -3,6 +3,12 @@
   "locale": "en",
   "items": [
     {
+      "id": "news-phase47-remote-verification-2026",
+      "title": "TEST PHASE 47 — Remote Content Verification",
+      "publishedAt": "2026-06-12T23:00:00Z",
+      "markdownBody": "# TEST PHASE 47 — Remote Content Verification\n\nThis article verifies that content published to **GKulesza/medbiophys-content** is received by release builds without a new app build.\n\nIf you see this article on a real iPhone (English locale) after a GitHub push, remote content sync is working."
+    },
+    {
       "id": "announcement-lab-hours-2026",
       "title": "Spring laboratory hours update",
       "publishedAt": "2026-02-15T09:00:00Z",
