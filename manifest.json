@@ -16,7 +16,7 @@
     {
       "id": "news/pl",
       "path": "news/pl/feed.json",
-      "version": "4",
+      "version": "5",
       "sha256": "dffe052cb397742da3ed717f23da12c3a8584077020e67b5c4aa7c487dd25388",
       "sizeBytes": 10513,
       "locale": "pl"
