@@ -3,12 +3,6 @@
   "locale": "pl",
   "items": [
     {
-      "id": "news-phase45b-workflow-verification-2026",
-      "title": "TEST PHASE 45B — weryfikacja workflow autora",
-      "publishedAt": "2026-06-12T22:00:00Z",
-      "markdownBody": "# TEST PHASE 45B\n\nTen artykuł testowy weryfikuje rzeczywisty workflow edycji treści po Phase 45. Jeśli widzisz ten tekst w aplikacji (język Polski), bundled snapshot został zaktualizowany."
-    },
-    {
       "id": "news-phase44-pipeline-verification-2026",
       "title": "TEST PHASE 44 — weryfikacja publikacji treści",
       "publishedAt": "2026-06-12T19:43:42Z",
