@@ -1,6 +1,6 @@
 # Historio de la Fako de Medicina Biofiziko
 
-<!-- Redaktaj bildoj povas aldoniĝi sub images/ kaj esti referencitaj kiel ![priskribo](images/exemplo.png). -->
+<!-- Redaktaj bildoj povas aldoniĝi sub images/ kaj esti referencitaj kiel ![priskribo](images/history/exemplo.png). -->
 
 La komencoj de la nuna Fako de Medicina Biofiziko reiras al la fondo de la Medicina Akademio en Bjalistoko. Jen kronologia skizo de ĝia historio:
 

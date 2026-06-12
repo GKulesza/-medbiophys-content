@@ -1,6 +1,6 @@
 # Historia del Departamento de Biofísica Médica
 
-<!-- Las imágenes editoriales pueden añadirse en images/ y referenciarse como ![leyenda](images/ejemplo.png). -->
+<!-- Las imágenes editoriales pueden añadirse en images/history/ y referenciarse como ![leyenda](images/history/ejemplo.png). -->
 
 Los orígenes del actual Departamento de Biofísica Médica se remontan a los inicios de la Academia Médica de Białystok. A continuación se presenta un esquema cronológico de su historia:
 

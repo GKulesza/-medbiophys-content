@@ -1,6 +1,6 @@
 # Istorija Oděla medicinskoj biofiziky
 
-<!-- Redaktorske obrazky mogut byti dobavjene v images/ i ssylaty se kak ![opis](images/priměr.png). -->
+<!-- Redaktorske obrazky mogut byti dobavjene v images/ i ssylaty se kak ![opis](images/history/priměr.png). -->
 
 Početky dnešnjego Oděla medicinskoj biofiziky idut do samogo početka Medicinskoj akademije v Białystoku. Niže jest hronologičny obris jeho istorije:
 

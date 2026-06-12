@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "contentSetId": "2026-spring-content-v3",
-  "publishedAt": "2026-06-12T12:00:00Z",
+  "contentSetId": "2026-06-12-content",
+  "publishedAt": "2026-06-12T21:16:00Z",
   "minAppVersion": "1.0.0",
   "baseUrl": "https://raw.githubusercontent.com/GKulesza/medbiophys-content/main",
   "entries": [
@@ -9,80 +9,80 @@
       "id": "news/en",
       "path": "news/en/feed.json",
       "version": "5",
-      "sha256": "fa56aabdb9c802870438e98a6e60c5ff05db273708e9482ce0c5ac3618cc39fd",
-      "sizeBytes": 13919,
+      "sha256": "ca8823ba9f4d7688333a3c85822757d375584cd287fd8a6d07ade38c1919bce4",
+      "sizeBytes": 14044,
       "locale": "en"
     },
     {
       "id": "news/pl",
       "path": "news/pl/feed.json",
-      "version": "5",
-      "sha256": "4119cf5b863d3f19607f453c6fa0a3e840a59261a68eecbfb14eb078da45283a",
-      "sizeBytes": 11117,
+      "version": "6",
+      "sha256": "d8a5602ffe95748dbc0343f8b1127ec232623f4124359d2872620b94ab2390ba",
+      "sizeBytes": 11641,
       "locale": "pl"
     },
     {
       "id": "news/es",
       "path": "news/es/feed.json",
       "version": "5",
-      "sha256": "5dd064f3918103fec137451a24d4b2f53d5ac89378564c2ac6b08c1e28e648b6",
-      "sizeBytes": 9920,
+      "sha256": "4cb5973f68525a6189636adeb9ee8d58523ed6f7ab8aae4c17fc5aa197c77666",
+      "sizeBytes": 10045,
       "locale": "es"
     },
     {
       "id": "news/eo",
       "path": "news/eo/feed.json",
       "version": "5",
-      "sha256": "c25b1d539b20ffe168e9accc2edc129577e08f7812358be44149e04bc327df7e",
-      "sizeBytes": 8833,
+      "sha256": "0801786d767827adc71f0ff5ed22c749f69ffb644efd91c73f2629d2b3b5dc4c",
+      "sizeBytes": 8958,
       "locale": "eo"
     },
     {
       "id": "news/isv",
       "path": "news/isv/feed.json",
       "version": "5",
-      "sha256": "485ae5848c3efd933e7d2fbeefc5795c354fbad1fc22cc20b15b04241a4443ab",
-      "sizeBytes": 9126,
+      "sha256": "0676cb33a2891083a93344a17ea3e3d2a4caa06ba91106bed2e4e6714931053a",
+      "sizeBytes": 9251,
       "locale": "isv"
     },
     {
       "id": "history/en/history",
       "path": "history/en/history.md",
       "version": "1",
-      "sha256": "344bcd124f298d0b526f854f515034814dc9ecc50eb479c99c0ffa14f0d813d6",
-      "sizeBytes": 2653,
+      "sha256": "454c92ce70fdd092b7c291b4e59092c25eb12a10203d3b601c0cde3476eb58be",
+      "sizeBytes": 2669,
       "locale": "en"
     },
     {
       "id": "history/pl/history",
       "path": "history/pl/history.md",
       "version": "1",
-      "sha256": "ca7a0c02e906115ab04b75ff61c9046384d4e16d3bda21b2564118a429632a65",
-      "sizeBytes": 2822,
+      "sha256": "bee02ec42174167c407b70d0daee502f51e04d4f76d3a5d59ad88d0ccd8f3f19",
+      "sizeBytes": 2838,
       "locale": "pl"
     },
     {
       "id": "history/es/history",
       "path": "history/es/history.md",
       "version": "1",
-      "sha256": "9e4dab413eb9345b0b8cc769f5d599544a5481d911ef407849f40493545d6c9a",
-      "sizeBytes": 2973,
+      "sha256": "6aa8bf4d62d5f07dea5825b0f73a7b57c8dcf8cb72eb99135025da413a642e81",
+      "sizeBytes": 2989,
       "locale": "es"
     },
     {
       "id": "history/eo/history",
       "path": "history/eo/history.md",
       "version": "1",
-      "sha256": "09e977c399918aaee8d2d39bac85c12f59bf441a4eb1a522456fa12db3b6d586",
-      "sizeBytes": 2570,
+      "sha256": "e87d2b33bdfdb4974b5fad508f8d3d712629c6aa411ec0f356abca365797547b",
+      "sizeBytes": 2578,
       "locale": "eo"
     },
     {
       "id": "history/isv/history",
       "path": "history/isv/history.md",
       "version": "1",
-      "sha256": "bbb1d701b44c70f79d8a0ec3d5db2d1e0c546b723f8646b434ec86cf5f7383d3",
-      "sizeBytes": 2569,
+      "sha256": "036206061d009504cc99d657997e2a84da6e32fddc4e3a1b9834445e81b90eb9",
+      "sizeBytes": 2577,
       "locale": "isv"
     },
     {

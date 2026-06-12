@@ -1,6 +1,6 @@
 # Historia Zakładu Biofizyki Medycznej
 
-<!-- Obrazy redakcyjne można dodać w images/ i odwoływać się do nich jako ![podpis](images/przyklad.png). -->
+<!-- Obrazy redakcyjne można dodać w images/history/ i odwoływać się do nich jako ![podpis](images/history/przyklad.png). -->
 
 Początki dzisiejszego Zakładu Biofizyki Medycznej sięgają samego początku istnienia Akademii Medycznej w Białymstoku. Oto chronologiczny zarys jego historii:
 

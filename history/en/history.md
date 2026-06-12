@@ -1,6 +1,6 @@
 # History of the Department of Medical Biophysics
 
-<!-- Editorial images can be added under images/ and referenced as ![caption](images/example.png). -->
+<!-- Editorial images can be added under images/history/ and referenced as ![caption](images/history/example.png). -->
 
 The origins of today's Department of Medical Biophysics date back to the very beginning of the Medical Academy in Białystok. Below is a chronological outline of its history:
 

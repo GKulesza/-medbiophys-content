@@ -6,151 +6,151 @@
       "id": "announcement-lab-hours-2026",
       "title": "Vesenne obnovjenje rabotnyh časov laboratorije",
       "publishedAt": "2026-02-15T09:00:00Z",
-      "markdownBody": "# Vesenne obnovjenje rabotnyh časov laboratorije\n\nLaboratorij Medicinske Biofiziki produljuje rabotno vreme v vesennem ispitnom periodu.\n\n![Praktična laboratorija](images/workshop_lab.png)\n\n## Glavne izměny\n\n- Ponedělok–četvertek: **08:00–18:00**\n- Pętnica: **08:00–15:00**\n- Konsultacije po dogovoru"
+      "markdownBody": "# Vesenne obnovjenje rabotnyh časov laboratorije\n\nLaboratorij Medicinske Biofiziki produljuje rabotno vreme v vesennem ispitnom periodu.\n\n![Praktična laboratorija](images/news/workshop_lab.png)\n\n## Glavne izměny\n\n- Ponedělok–četvertek: **08:00–18:00**\n- Pętnica: **08:00–15:00**\n- Konsultacije po dogovoru"
     },
     {
       "id": "news-seminar-series-2026",
       "title": "Vesennaja serija seminarov po biofizike",
       "publishedAt": "2026-02-10T08:30:00Z",
-      "markdownBody": "# Vesennaja serija seminarov po biofizike\n\nKatedra zapušćaje vesennuju seriju o medicinskom obrazovanju i laboratornoj diagnostike.\n\n![Komnata MRI skanera](images/mri_scan.png)\n\n## Pervye sesije\n\n1. **Osnovy bezopasnosti MRI** — 18 fevralja\n2. **Ultrazvuk v kliničeskoj praktike** — 4 marta\n3. **Optične metody analizy tkanej** — 18 marta"
+      "markdownBody": "# Vesennaja serija seminarov po biofizike\n\nKatedra zapušćaje vesennuju seriju o medicinskom obrazovanju i laboratornoj diagnostike.\n\n![Komnata MRI skanera](images/news/mri_scan.png)\n\n## Pervye sesije\n\n1. **Osnovy bezopasnosti MRI** — 18 fevralja\n2. **Ultrazvuk v kliničeskoj praktike** — 4 marta\n3. **Optične metody analizy tkanej** — 18 marta"
     },
     {
       "id": "announcement-library-access-2026",
       "title": "Produljenje dostupa k radiološkim zbirkam",
       "publishedAt": "2026-02-08T11:00:00Z",
-      "markdownBody": "# Produljenje pristupa biblioteci\n\nOddeľna čitalnja nyni predostavlja produljeny večernij pristup k radiologičeskim i medicinsko-fizičeskim izdanijam.\n\n![Učebny prostor](images/library_study.png)\n\n## Novosti\n\n- Žurnaly o MRI, CT i PET\n- Arhivy o **Marie Curie**"
+      "markdownBody": "# Produljenje pristupa biblioteci\n\nOddeľna čitalnja nyni predostavlja produljeny večernij pristup k radiologičeskim i medicinsko-fizičeskim izdanijam.\n\n![Učebny prostor](images/news/library_study.png)\n\n## Novosti\n\n- Žurnaly o MRI, CT i PET\n- Arhivy o **Marie Curie**"
     },
     {
       "id": "news-mri-technology-advances",
       "title": "Katedra predstavlja dostignenija v tehnologii MRI",
       "publishedAt": "2026-02-05T10:00:00Z",
-      "markdownBody": "# Dostignenija v tehnologii MRI\n\nIssledovateli predstavili raboty o **7 T MRI** i kvantitativnyh posledovatelnostjah v nejrovizualizacii.\n\n![Tehnologija MRI](images/mri_scan.png)"
+      "markdownBody": "# Dostignenija v tehnologii MRI\n\nIssledovateli predstavili raboty o **7 T MRI** i kvantitativnyh posledovatelnostjah v nejrovizualizacii.\n\n![Tehnologija MRI](images/news/mri_scan.png)"
     },
     {
       "id": "news-pet-imaging-update",
       "title": "Nove PET protokoly dlja učebnogo onkologičeskogo modulja",
       "publishedAt": "2026-01-28T09:00:00Z",
-      "markdownBody": "# Obnovjenje PET obrazovanija\n\nKlinični partnery predostavili obnovjene **FDG-PET** protokoly dlja učebnyh slučaev.\n\n![PET skaner](images/pet_scanner.png)"
+      "markdownBody": "# Obnovjenje PET obrazovanija\n\nKlinični partnery predostavili obnovjene **FDG-PET** protokoly dlja učebnyh slučaev.\n\n![PET skaner](images/news/pet_scanner.png)"
     },
     {
       "id": "news-proton-therapy-centre",
       "title": "Učebna poseta v centar protonnoj terapije",
       "publishedAt": "2026-01-22T08:00:00Z",
-      "markdownBody": "# Učebna poseta — protonna terapija\n\nStudenty četvertogo kursa posetit centar **protonnoj terapije** radi planovanja i dozimetrii.\n\n![Centar protonnoj terapije](images/proton_therapy.png)"
+      "markdownBody": "# Učebna poseta — protonna terapija\n\nStudenty četvertogo kursa posetit centar **protonnoj terapije** radi planovanja i dozimetrii.\n\n![Centar protonnoj terapije](images/news/proton_therapy.png)"
     },
     {
       "id": "news-ultrasound-physics-course",
       "title": "Modul fiziki ultrazvuka s praktičnymi Doppler laboratorijami",
       "publishedAt": "2026-01-18T12:00:00Z",
-      "markdownBody": "# Modul fiziki ultrazvuka\n\nObnovjenny modul **ultrazvuka** vključaje Doppler fantomy i spektralny analiz.\n\n![Ultrazvukova sonda](images/ultrasound_probe.png)"
+      "markdownBody": "# Modul fiziki ultrazvuka\n\nObnovjenny modul **ultrazvuka** vključaje Doppler fantomy i spektralny analiz.\n\n![Ultrazvukova sonda](images/news/ultrasound_probe.png)"
     },
     {
       "id": "news-medical-ai-radiology",
       "title": "Gostevaja lekcija o medicinskoj AI v radiologii",
       "publishedAt": "2026-01-12T09:30:00Z",
-      "markdownBody": "# Medicinska AI v radiologii\n\nLekcija razbira, kako **mašinno učenje** pomože obnaruživati plućne čvorove.\n\n![Medicinska AI](images/medical_ai.png)"
+      "markdownBody": "# Medicinska AI v radiologii\n\nLekcija razbira, kako **mašinno učenje** pomože obnaruživati plućne čvorove.\n\n![Medicinska AI](images/news/medical_ai.png)"
     },
     {
       "id": "news-hounsfield-lecture-series",
       "title": "Cikl lekcij Hounsfield o KT vizualizacii",
       "publishedAt": "2026-01-08T10:00:00Z",
-      "markdownBody": "# Cikl lekcij Hounsfield\n\nSerija posvećena **Sir Godfrey Hounsfield** razbira fiziku kompjuterne tomografije.\n\n![KT skaner](images/hounsfield_ct.png)"
+      "markdownBody": "# Cikl lekcij Hounsfield\n\nSerija posvećena **Sir Godfrey Hounsfield** razbira fiziku kompjuterne tomografije.\n\n![KT skaner](images/news/hounsfield_ct.png)"
     },
     {
       "id": "news-cern-medical-applications",
       "title": "Medicinske primeny CERN na vesennom kolokviju",
       "publishedAt": "2026-01-03T08:00:00Z",
-      "markdownBody": "# Medicinske primeny CERN\n\nKolokvij svjazuje **tehnologiju CERN** s medicinskim obrazovaniem i terapije.\n\n![Akcelerator](images/cern_medical.png)"
+      "markdownBody": "# Medicinske primeny CERN\n\nKolokvij svjazuje **tehnologiju CERN** s medicinskim obrazovaniem i terapije.\n\n![Akcelerator](images/news/cern_medical.png)"
     },
     {
       "id": "scientific-club-imedic-2026",
       "title": "Naučny Klub: poziv za apstrakty iMEDIC 2026",
       "publishedAt": "2026-02-01T10:00:00Z",
-      "markdownBody": "# Naučny Klub: iMEDIC 2026\n\nKlub poziva studenty poslati apstrakty za **iMEDIC 2026**.\n\n![Konferencna sala](images/conference_2026.png)"
+      "markdownBody": "# Naučny Klub: iMEDIC 2026\n\nKlub poziva studenty poslati apstrakty za **iMEDIC 2026**.\n\n![Konferencna sala](images/news/conference_2026.png)"
     },
     {
       "id": "scientific-club-student-project-grant",
       "title": "Studentske granty za dozimetrične projekty",
       "publishedAt": "2026-01-25T09:00:00Z",
-      "markdownBody": "# Studentske granty\n\nKlub objavljuje mikro-granty za **dozimetrične** projekty.\n\n![Studentska grupa](images/student_research.png)"
+      "markdownBody": "# Studentske granty\n\nKlub objavljuje mikro-granty za **dozimetrične** projekty.\n\n![Studentska grupa](images/news/student_research.png)"
     },
     {
       "id": "scientific-club-mri-workshop",
       "title": "Vikend radionica MRI bezopasnosti",
       "publishedAt": "2026-01-20T14:00:00Z",
-      "markdownBody": "# Radionica MRI bezopasnosti\n\nNovi članovi mogu pohađati radionicu **MRI bezopasnosti**.\n\n![Laboratorija radionice](images/workshop_lab.png)"
+      "markdownBody": "# Radionica MRI bezopasnosti\n\nNovi članovi mogu pohađati radionicu **MRI bezopasnosti**.\n\n![Laboratorija radionice](images/news/workshop_lab.png)"
     },
     {
       "id": "scientific-club-publication-award",
       "title": "Klub nagrada za biofizičku publikaciju",
       "publishedAt": "2026-01-14T11:00:00Z",
-      "markdownBody": "# Nagrada za publikaciju\n\nČlan kluba dobio je nagradu za **recenziran rad**.\n\n![Publikacija](images/publication_journal.png)"
+      "markdownBody": "# Nagrada za publikaciju\n\nČlan kluba dobio je nagradu za **recenziran rad**.\n\n![Publikacija](images/news/publication_journal.png)"
     },
     {
       "id": "scientific-club-biophysics-competition",
       "title": "Nacionalno takmičenje iz biofizike — registracija timova",
       "publishedAt": "2026-01-05T09:00:00Z",
-      "markdownBody": "# Takmičenje iz biofizike\n\nTimovi do četiri studenta mogu se prijaviti na **nacionalno takmičenje**.\n\n![Poster takmičenja](images/competition_poster.png)"
+      "markdownBody": "# Takmičenje iz biofizike\n\nTimovi do četiri studenta mogu se prijaviti na **nacionalno takmičenje**.\n\n![Poster takmičenja](images/news/competition_poster.png)"
     },
     {
       "id": "fun-fact-mri-magnets",
       "title": "Zanimivost: zašto su MRI magneti tako moćni",
       "publishedAt": "2026-01-20T12:00:00Z",
-      "markdownBody": "# Zanimivost: MRI magneti\n\nKlinički MRI koristaju superprovodive magnete od **1,5 T ili 3 T**.\n\n![Shema magneta](images/magnet_diagram.png)"
+      "markdownBody": "# Zanimivost: MRI magneti\n\nKlinički MRI koristaju superprovodive magnete od **1,5 T ili 3 T**.\n\n![Shema magneta](images/news/magnet_diagram.png)"
     },
     {
       "id": "fun-fact-marie-curie",
       "title": "Zanimivost: mobilne radiografije Marie Curie",
       "publishedAt": "2026-01-17T12:00:00Z",
-      "markdownBody": "# Zanimivost: Marie Curie\n\n**Marie Curie** razvila je mobilne radiografije tokom Prvog svetskog rata.\n\n![Istorijska laboratorija](images/marie_curie_lab.png)"
+      "markdownBody": "# Zanimivost: Marie Curie\n\n**Marie Curie** razvila je mobilne radiografije tokom Prvog svetskog rata.\n\n![Istorijska laboratorija](images/news/marie_curie_lab.png)"
     },
     {
       "id": "fun-fact-hounsfield-units",
       "title": "Zanimivost: što mjere Hounsfield jedinice",
       "publishedAt": "2026-01-15T12:00:00Z",
-      "markdownBody": "# Zanimivost: Hounsfield jedinice\n\n**Hounsfield jedinice (HU)** skaliraju CT vrednosti prema vodi (0 HU).\n\n![KT slika](images/hounsfield_ct.png)"
+      "markdownBody": "# Zanimivost: Hounsfield jedinice\n\n**Hounsfield jedinice (HU)** skaliraju CT vrednosti prema vodi (0 HU).\n\n![KT slika](images/news/hounsfield_ct.png)"
     },
     {
       "id": "fun-fact-cosmic-radiation",
       "title": "Zanimivost: kosmičko zračenje u avionu",
       "publishedAt": "2026-01-12T12:00:00Z",
-      "markdownBody": "# Zanimivost: kosmičko zračenje\n\nPutnici na dalekim letovima primaju **kosmičko zračenje**.\n\n![Kosmičko zračenje](images/cosmic_radiation.png)"
+      "markdownBody": "# Zanimivost: kosmičko zračenje\n\nPutnici na dalekim letovima primaju **kosmičko zračenje**.\n\n![Kosmičko zračenje](images/news/cosmic_radiation.png)"
     },
     {
       "id": "fun-fact-pet-tracers",
       "title": "Zanimivost: zašto PET traseri brzo decay-ju",
       "publishedAt": "2026-01-10T12:00:00Z",
-      "markdownBody": "# Zanimivost: PET traseri\n\nPET traseri koriste kratkožive izotope poput fluora-18.\n\n![PET bočica](images/pet_tracer.png)"
+      "markdownBody": "# Zanimivost: PET traseri\n\nPET traseri koriste kratkožive izotope poput fluora-18.\n\n![PET bočica](images/news/pet_tracer.png)"
     },
     {
       "id": "fun-fact-proton-range",
       "title": "Zanimivost: Braggov vrh u protonskoj terapiji",
       "publishedAt": "2026-01-08T12:00:00Z",
-      "markdownBody": "# Zanimivost: domet protonov\n\nProtoni deponuju energiju u oštrom **Braggovom vrhu**.\n\n![Kriva doze](images/proton_bragg.png)"
+      "markdownBody": "# Zanimivost: domet protonov\n\nProtoni deponuju energiju u oštrom **Braggovom vrhu**.\n\n![Kriva doze](images/news/proton_bragg.png)"
     },
     {
       "id": "fun-fact-nobel-imaging",
       "title": "Zanimivost: Nobelove nagrade i medicinska vizualizacija",
       "publishedAt": "2026-01-05T12:00:00Z",
-      "markdownBody": "# Zanimivost: Nobel i vizualizacija\n\nMedicinska vizualizacija ima više **Nobelovih nagrada**.\n\n![Nobel koláž](images/nobel_imaging.png)"
+      "markdownBody": "# Zanimivost: Nobel i vizualizacija\n\nMedicinska vizualizacija ima više **Nobelovih nagrada**.\n\n![Nobel koláž](images/news/nobel_imaging.png)"
     },
     {
       "id": "fun-fact-ultrasound-frequency",
       "title": "Zanimivost: ultrazvučne frekvencije u klinici",
       "publishedAt": "2026-01-03T12:00:00Z",
-      "markdownBody": "# Zanimivost: ultrazvuk frekvencije\n\nDijagnostički ultrazvuk koristi sonde **2–18 MHz**.\n\n![Doppler ultrazvuk](images/doppler_ultrasound.png)"
+      "markdownBody": "# Zanimivost: ultrazvuk frekvencije\n\nDijagnostički ultrazvuk koristi sonde **2–18 MHz**.\n\n![Doppler ultrazvuk](images/news/doppler_ultrasound.png)"
     },
     {
       "id": "fun-fact-digital-radiography",
       "title": "Zanimivost: digitalna radiografija zamenila film",
       "publishedAt": "2026-01-01T12:00:00Z",
-      "markdownBody": "# Zanimivost: digitalna radiografija\n\n**Digitalna radiografija** zamenjuje hemijsko otkrivanje filma.\n\n![Digitalni detektor](images/digital_xray.png)"
+      "markdownBody": "# Zanimivost: digitalna radiografija\n\n**Digitalna radiografija** zamenjuje hemijsko otkrivanje filma.\n\n![Digitalni detektor](images/news/digital_xray.png)"
     },
     {
       "id": "fun-fact-tissue-attenuation",
       "title": "Zanimivost: attenuacija tkiva zavisi od modaliteta",
       "publishedAt": "2025-12-28T12:00:00Z",
-      "markdownBody": "# Zanimivost: attenuacija tkiva\n\nIsto tkivo attenuira **X-zrake**, **ultrazvuk** i **MRI** različito.\n\n![Ilustracija kontrasta](images/tissue_attenuation.png)"
+      "markdownBody": "# Zanimivost: attenuacija tkiva\n\nIsto tkivo attenuira **X-zrake**, **ultrazvuk** i **MRI** različito.\n\n![Ilustracija kontrasta](images/news/tissue_attenuation.png)"
     }
   ]
 }
