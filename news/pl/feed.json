@@ -3,6 +3,12 @@
   "locale": "pl",
   "items": [
     {
+      "id": "news-phase44-pipeline-verification-2026",
+      "title": "TEST PHASE 44 — weryfikacja publikacji treści",
+      "publishedAt": "2026-06-12T19:43:42Z",
+      "markdownBody": "# TEST PHASE 44 — weryfikacja publikacji treści\n\nTen artykuł został utworzony, aby sprawdzić, czy pełny proces edycji treści działa poprawnie: edycja w repozytorium źródłowym, synchronizacja drzew A/B/C, regeneracja manifestu oraz wyświetlenie w aplikacji w sekcji **News**.\n\nJeśli widzisz ten tekst po wybraniu języka **Polski**, pipeline publikacji treści działa."
+    },
+    {
       "id": "b-announcement-lab-hours-2026",
       "title": "Wiosenna aktualizacja godzin laboratorium",
       "publishedAt": "2026-05-15T09:00:00Z",
