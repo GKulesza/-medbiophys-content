@@ -1,12 +1,12 @@
 {
-  "schemaVersion": 2,
+  "schemaVersion": 1,
   "locale": "pl",
   "items": [
     {
-      "id": "new-rest-piko-party",
-      "title": "Robimy imprezę wydziałową",
-      "publishedAt": "2026-06-15T09:40:00Z",
-      "markdownBody": "# Nie wiem co tu napisać \n\nLaboratorium Biofizyki Medycznej ## wydłuża godziny ##no otwarcia w okresie sesji wiosennej.\n\n![Laboratorium praktyczne](images/workshop_lab.png)\n\n## Najważniejsze zmiany\n\n- Poniedziałek–czwartek: **08:00–18:00**\n- Piątek: **08:00–15:00**\n- Konsultacje po wcześniejszym umówieniu\n\n> Sprawdź harmonogram grupy w kalendarzu przed każdym zajęciem."
+      "id": "b-announcement-lab-hours-2026",
+      "title": "Wiosenna aktualizacja godzin laboratorium",
+      "publishedAt": "2026-05-15T09:00:00Z",
+      "markdownBody": "# The Wiosenna ## aktualizacja ### godzin laboratorium\n\nLaboratorium Biofizyki Medycznej wydłuża godziny otwarcia w okresie sesji wiosennej.\n\n![Laboratorium praktyczne](images/workshop_lab.png)\n\n## Najważniejsze zmiany\n\n- Poniedziałek–czwartek: **08:00–18:00**\n- Piątek: **08:00–15:00**\n- Konsultacje po wcześniejszym umówieniu\n\n> Sprawdź harmonogram grupy w kalendarzu przed każdym zajęciem."
     },
     {
       "id": "news-seminar-series-2026",

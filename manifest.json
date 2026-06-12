@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "contentSetId": "2026-spring-content-v2",
-  "publishedAt": "2026-06-10T12:00:00Z",
+  "contentSetId": "2026-spring-content-v3",
+  "publishedAt": "2026-06-12T12:00:00Z",
   "minAppVersion": "1.0.0",
-  "baseUrl": "https://raw.githubusercontent.com/KuuuGR/MedBioPhys/flutter-migration/medbiophys-content",
+  "baseUrl": "https://raw.githubusercontent.com/GKulesza/medbiophys-content/main",
   "entries": [
     {
       "id": "news/en",
       "path": "news/en/feed.json",
-      "version": "4",
+      "version": "5",
       "sha256": "fa56aabdb9c802870438e98a6e60c5ff05db273708e9482ce0c5ac3618cc39fd",
       "sizeBytes": 13919,
       "locale": "en"
@@ -17,14 +17,14 @@
       "id": "news/pl",
       "path": "news/pl/feed.json",
       "version": "5",
-      "sha256": "dffe052cb397742da3ed717f23da12c3a8584077020e67b5c4aa7c487dd25388",
-      "sizeBytes": 10513,
+      "sha256": "183cc40250bf4508999c9e96f4435cebad2e877605283415ae503a217e702799",
+      "sizeBytes": 10526,
       "locale": "pl"
     },
     {
       "id": "news/es",
       "path": "news/es/feed.json",
-      "version": "4",
+      "version": "5",
       "sha256": "5dd064f3918103fec137451a24d4b2f53d5ac89378564c2ac6b08c1e28e648b6",
       "sizeBytes": 9920,
       "locale": "es"
@@ -32,7 +32,7 @@
     {
       "id": "news/eo",
       "path": "news/eo/feed.json",
-      "version": "4",
+      "version": "5",
       "sha256": "c25b1d539b20ffe168e9accc2edc129577e08f7812358be44149e04bc327df7e",
       "sizeBytes": 8833,
       "locale": "eo"
@@ -40,7 +40,7 @@
     {
       "id": "news/isv",
       "path": "news/isv/feed.json",
-      "version": "4",
+      "version": "5",
       "sha256": "485ae5848c3efd933e7d2fbeefc5795c354fbad1fc22cc20b15b04241a4443ab",
       "sizeBytes": 9126,
       "locale": "isv"
