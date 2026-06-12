@@ -4,9 +4,9 @@
   "items": [
     {
       "id": "news-phase48-content-update-ux-2026",
-      "title": "AAA TEST PHASE 48 — Content Update UX",
+      "title": "FF TEST PHASE 48 — Content Update UX",
       "publishedAt": "2026-06-13T12:00:00Z",
-      "markdownBody": "# TEST PHASE 48 — Content Update UX\n\nThis ## article verifies # that release builds check the manifest on every app launch and show updated content without a 24-hour wait.\n\nIf you see this article after a GitHub push and app reopen, Phase 48 sync UX is working."
+      "markdownBody": "# TEST PHASE 48 — Content Update UX\n\nThis article verifies that release builds check the manifest on every app launch and show updated content without a 24-hour wait.\n\nIf you see this article after a GitHub push and app reopen, Phase 48 sync UX is working."
     },
     {
       "id": "news-phase47-remote-verification-2026",

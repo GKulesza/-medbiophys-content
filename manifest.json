@@ -1,24 +1,24 @@
 {
   "schemaVersion": 1,
   "contentSetId": "2026-06-12-content",
-  "publishedAt": "2026-06-12T21:32:26Z",
+  "publishedAt": "2026-06-12T21:46:37Z",
   "minAppVersion": "1.0.0",
   "baseUrl": "https://raw.githubusercontent.com/GKulesza/medbiophys-content/main",
   "entries": [
     {
       "id": "news/en",
       "path": "news/en/feed.json",
-      "version": "7",
-      "sha256": "e9a49bd8cceb19a96b76ca22dfadd691a242941b2dbb2700f12facd26e3e3b3f",
-      "sizeBytes": 14993,
+      "version": "8",
+      "sha256": "1a89c9b13df7176f8d02ce5f046465f299eadd069cdca6f1ce502210c0ba7d79",
+      "sizeBytes": 14996,
       "locale": "en"
     },
     {
       "id": "news/pl",
       "path": "news/pl/feed.json",
-      "version": "5",
-      "sha256": "e7af8cd2739826c5fa5e4a1d09acd8ab183e87565f9ed01a7db46c0bce348736",
-      "sizeBytes": 11242,
+      "version": "6",
+      "sha256": "310ce6f253655c0c23427910f255c26f10b6ee44698f6bd186aa3f8e9bd83378",
+      "sizeBytes": 11252,
       "locale": "pl"
     },
     {
@@ -40,9 +40,9 @@
     {
       "id": "news/isv",
       "path": "news/isv/feed.json",
-      "version": "5",
-      "sha256": "0676cb33a2891083a93344a17ea3e3d2a4caa06ba91106bed2e4e6714931053a",
-      "sizeBytes": 9251,
+      "version": "6",
+      "sha256": "80f561e31b252c8562621696c8ab7eec4c8ae6d1424a3a8abca2503052525774",
+      "sizeBytes": 9258,
       "locale": "isv"
     },
     {
