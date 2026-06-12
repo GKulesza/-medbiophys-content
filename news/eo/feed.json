@@ -4,9 +4,9 @@
   "items": [
     {
       "id": "announcement-lab-hours-2026",
-      "title": "Printempa laboratoriohoroj aktualizitaj",
+      "title": "BBB Printempa laboratoriohoroj aktualizitaj",
       "publishedAt": "2026-02-15T09:00:00Z",
-      "markdownBody": "# Printempa laboratoriohoroj\n\nLa Medicina Biofizika laboratorio plilongigas la malfermhorojn dum la printempa ekzamenperiodo.\n\n![Praktika laboratorio](images/news/workshop_lab.png)\n\n## Ŝanĝoj\n\n- Lundo–ĵaŭdo: **08:00–18:00**\n- Vendredo: **08:00–15:00**\n- Konsultoj nur post antaŭa rendevuo"
+      "markdownBody": "# Printempa ## laboratoriohoroj\n\nLa Medicina Biofizika laboratorio plilongigas la malfermhorojn dum la printempa ekzamenperiodo.\n\n![Praktika laboratorio](images/news/workshop_lab.png)\n\n## Ŝanĝoj\n\n- Lundo–ĵaŭdo: **08:00–18:00**\n- Vendredo: **08:00–15:00**\n- Konsultoj nur post antaŭa rendevuo"
     },
     {
       "id": "news-seminar-series-2026",
