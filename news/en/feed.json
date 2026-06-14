@@ -4,169 +4,169 @@
   "items": [
     {
       "id": "news-phase58-content-verification-2026",
-      "title": "TEST PHASE 58 — Content Update Verification",
+      "title": " x3-fixTEST PHASE 58 — Content Update Verification",
       "publishedAt": "2026-06-14T14:00:00Z",
       "markdownBody": "# TEST PHASE 58 — Content Update Verification\n\nThis article verifies that editorial changes published through the MedBioPhys content workflow reach release builds without a new app binary.\n\nIf you see this headline in **News** (English locale) after a GitHub push to GKulesza/medbiophys-content and an app restart, Phase 58 end-to-end delivery is confirmed."
     },
     {
       "id": "news-phase48-content-update-ux-2026",
-      "title": "FF TEST PHASE 48 — Content Update UX",
+      "title": " x3-fixFF TEST PHASE 48 — Content Update UX",
       "publishedAt": "2026-06-13T12:00:00Z",
       "markdownBody": "# TEST PHASE 48 — Content Update UX\n\nThis article verifies that release builds check the manifest on every app launch and show updated content without a 24-hour wait.\n\nIf you see this article after a GitHub push and app reopen, Phase 48 sync UX is working."
     },
     {
       "id": "news-phase47-remote-verification-2026",
-      "title": "TEST PHASE 47 — Remote Content Verification",
+      "title": " x3-fixTEST PHASE 47 — Remote Content Verification",
       "publishedAt": "2026-06-12T23:00:00Z",
       "markdownBody": "# TEST PHASE 47 — Remote Content Verification\n\nThis article verifies that content published to **GKulesza/medbiophys-content** is received by release builds without a new app build.\n\nIf you see this article on a real iPhone (English locale) after a GitHub push, remote content sync is working."
     },
     {
       "id": "announcement-lab-hours-2026",
-      "title": "Spring laboratory hours update",
+      "title": " x3-fixSpring laboratory hours update",
       "publishedAt": "2026-02-15T09:00:00Z",
       "markdownBody": "# Spring laboratory hours update\n\nThe Medical Biophysics laboratory extends opening hours during the spring examination period.\n\n![Practical laboratory](images/news/workshop_lab.png)\n\n## Key changes\n\n- Monday–Thursday: **08:00–18:00**\n- Friday: **08:00–15:00**\n- Consultations by appointment only\n\n> Please verify your group schedule in the calendar before each session.\n\nContact the laboratory coordinator if you need a safety refresher."
     },
     {
       "id": "news-seminar-series-2026",
-      "title": "Biophysics seminar series opens for spring",
+      "title": " x3-fixBiophysics seminar series opens for spring",
       "publishedAt": "2026-02-10T08:30:00Z",
       "markdownBody": "# Biophysics seminar series\n\nThe department launches its spring seminar series on medical imaging and laboratory diagnostics.\n\n![MRI scanner room](images/news/mri_scan.png)\n\n## First sessions\n\n1. **MRI safety fundamentals** — 18 February\n2. **Ultrasound in clinical practice** — 4 March\n3. **Optical methods in tissue analysis** — 18 March\n\nSeminars are open to students from all years. [Medical University of Białystok](https://www.umb.edu.pl/) students receive attendance credit toward practical requirements."
     },
     {
       "id": "announcement-library-access-2026",
-      "title": "Extended access to radiology reference collection",
+      "title": " x3-fixExtended access to radiology reference collection",
       "publishedAt": "2026-02-08T11:00:00Z",
       "markdownBody": "# Extended library access\n\nThe departmental reading room now provides extended evening access to radiology and medical physics references.\n\n![Study space](images/news/library_study.png)\n\n## What's new\n\n- Core journals on MRI, CT, and PET imaging\n- Historical archives on **Marie Curie** and early radiology\n- Quiet study desks with power outlets\n\nAsk the librarian for the password to digital volumes."
     },
     {
       "id": "news-mri-technology-advances",
-      "title": "Department highlights advances in MRI technology",
+      "title": " x3-fixDepartment highlights advances in MRI technology",
       "publishedAt": "2026-02-05T10:00:00Z",
       "markdownBody": "# Advances in MRI technology\n\nFaculty members presented recent work on **7 T research MRI** and quantitative mapping sequences used in neuroimaging.\n\n![MRI technology](images/news/mri_scan.png)\n\n## Highlights\n\n- Faster acquisition with parallel imaging\n- Improved fat suppression for musculoskeletal studies\n- Open-phased array coils for pediatric anesthesia cases\n\n> MRI remains the gold standard for soft-tissue contrast without ionizing radiation."
     },
     {
       "id": "news-pet-imaging-update",
-      "title": "New PET tracer protocols for oncology teaching",
+      "title": " x3-fixNew PET tracer protocols for oncology teaching",
       "publishedAt": "2026-01-28T09:00:00Z",
       "markdownBody": "# PET imaging update\n\nClinical partners shared updated **FDG-PET** protocols for teaching cases in oncology and neurology.\n\n![PET scanner](images/news/pet_scanner.png)\n\n## Learning objectives\n\n1. Understand tracer uptake mechanisms\n2. Compare SUV normalization methods\n3. Interpret fused PET/CT datasets\n\nStudents will review anonymized cases during the April workshop."
     },
     {
       "id": "news-proton-therapy-centre",
-      "title": "Study visit planned to regional proton therapy centre",
+      "title": " x3-fixStudy visit planned to regional proton therapy centre",
       "publishedAt": "2026-01-22T08:00:00Z",
       "markdownBody": "# Proton therapy study visit\n\nFourth-year students will visit a regional **proton therapy** facility to observe treatment planning and dose delivery.\n\n![Proton therapy facility](images/news/proton_therapy.png)\n\n## Topics covered\n\n- Bragg peak and spread-out Bragg peak\n- Range uncertainty in heterogeneous tissue\n- QA measurements with ionization chambers\n\nRegistration opens through the Scientific Club board."
     },
     {
       "id": "news-ultrasound-physics-course",
-      "title": "Ultrasound physics module adds hands-on Doppler labs",
+      "title": " x3-fixUltrasound physics module adds hands-on Doppler labs",
       "publishedAt": "2026-01-18T12:00:00Z",
       "markdownBody": "# Ultrasound physics module\n\nA revised **ultrasound physics** module introduces Doppler flow phantoms and spectral analysis exercises.\n\n![Ultrasound probe](images/news/ultrasound_probe.png)\n\n## Practical skills\n\n- Adjust depth, gain, and focus fields\n- Compare continuous-wave vs pulsed Doppler\n- Relate beam frequency to axial resolution\n\nBring your laboratory notebook to the first session."
     },
     {
       "id": "news-medical-ai-radiology",
-      "title": "Guest lecture on medical AI in radiology reporting",
+      "title": " x3-fixGuest lecture on medical AI in radiology reporting",
       "publishedAt": "2026-01-12T09:30:00Z",
       "markdownBody": "# Medical AI in radiology\n\nA guest lecture explores how **machine learning** assists detection of pulmonary nodules and fracture lines on radiographs.\n\n![Medical AI visualization](images/news/medical_ai.png)\n\n## Discussion points\n\n- Sensitivity vs specificity trade-offs\n- Human-in-the-loop reporting workflows\n- Regulatory expectations for clinical AI tools\n\nThe session includes a live demo of a research segmentation model."
     },
     {
       "id": "news-hounsfield-lecture-series",
-      "title": "Hounsfield lecture series celebrates CT imaging pioneers",
+      "title": " x3-fixHounsfield lecture series celebrates CT imaging pioneers",
       "publishedAt": "2026-01-08T10:00:00Z",
       "markdownBody": "# Hounsfield lecture series\n\nNamed after **Sir Godfrey Hounsfield**, the series revisits the physics of computed tomography and modern spectral CT.\n\n![CT scanner](images/news/hounsfield_ct.png)\n\n## Schedule\n\n1. From filtered back-projection to iterative reconstruction\n2. Beam hardening and **Hounsfield units** in practice\n3. Dual-energy CT in cardiovascular imaging"
     },
     {
       "id": "news-cern-medical-applications",
-      "title": "CERN medical applications featured in spring colloquium",
+      "title": " x3-fixCERN medical applications featured in spring colloquium",
       "publishedAt": "2026-01-03T08:00:00Z",
       "markdownBody": "# CERN medical applications\n\nThe spring colloquium links **CERN accelerator technology** to medical imaging and hadron therapy research.\n\n![Research collider concept](images/news/cern_medical.png)\n\n## Key links\n\n- Particle detectors adapted for PET timing\n- Superconducting magnets shared with MRI engineering\n- Monte Carlo tools used in radiotherapy planning\n\nRead the [CERN medical applications overview](https://home.cern/science/physics/medical-applications) before attending."
     },
     {
       "id": "scientific-club-imedic-2026",
-      "title": "Scientific Club: iMEDIC 2026 call for abstracts",
+      "title": " x3-fixScientific Club: iMEDIC 2026 call for abstracts",
       "publishedAt": "2026-02-01T10:00:00Z",
       "markdownBody": "# Scientific Club: iMEDIC 2026\n\nThe Medical Biophysics Scientific Club invites students to submit abstracts for **iMEDIC 2026**.\n\n![Conference hall](images/news/conference_2026.png)\n\n## Important dates\n\n| Milestone | Date |\n| --- | --- |\n| Abstract deadline | 30 March 2026 |\n| Notification | 15 April 2026 |\n| Conference | 8–10 May 2026 |"
     },
     {
       "id": "scientific-club-student-project-grant",
-      "title": "Student project grants for dosimetry research",
+      "title": " x3-fixStudent project grants for dosimetry research",
       "publishedAt": "2026-01-25T09:00:00Z",
       "markdownBody": "# Student project grants\n\nThe Scientific Club announces micro-grants for **dosimetry** and radiation protection student projects.\n\n![Student research team](images/news/student_research.png)\n\n## Eligible topics\n\n- Ion chamber calibration studies\n- Monte Carlo modeling of treatment fields\n- Survey meter intercomparison exercises"
     },
     {
       "id": "scientific-club-mri-workshop",
-      "title": "Weekend MRI safety workshop for new members",
+      "title": " x3-fixWeekend MRI safety workshop for new members",
       "publishedAt": "2026-01-20T14:00:00Z",
       "markdownBody": "# MRI safety workshop\n\nNew Scientific Club members can join a **MRI safety** workshop covering zone definitions and emergency quench procedures.\n\n![Workshop laboratory](images/news/workshop_lab.png)\n\n## Agenda\n\n1. Static magnetic field hazards\n2. RF heating limits and SAR concepts\n3. Practical walk-through of Zone II/III boundaries"
     },
     {
       "id": "scientific-club-publication-award",
-      "title": "Club member receives award for biophysics publication",
+      "title": " x3-fixClub member receives award for biophysics publication",
       "publishedAt": "2026-01-14T11:00:00Z",
       "markdownBody": "# Publication award\n\nA Scientific Club member received a departmental award for a **peer-reviewed paper** on optical coherence elastography.\n\n![Journal publication](images/news/publication_journal.png)\n\n## Publication summary\n\n- Measured shear-wave contrast in tissue-mimicking phantoms\n- Compared time-domain vs spectral-domain acquisition\n- Presented findings at the national medical physics meeting"
     },
     {
       "id": "scientific-club-biophysics-competition",
-      "title": "National biophysics competition — register your team",
+      "title": " x3-fixNational biophysics competition — register your team",
       "publishedAt": "2026-01-05T09:00:00Z",
       "markdownBody": "# Biophysics competition\n\nTeams of up to four students may register for the **national biophysics competition** hosted by partner universities.\n\n![Competition poster](images/news/competition_poster.png)\n\n## Rounds\n\n1. Online quiz on radiation physics fundamentals\n2. Laboratory challenge with uncertainty analysis\n3. Oral presentation of a clinical case study"
     },
     {
       "id": "fun-fact-mri-magnets",
-      "title": "Fun fact: why MRI magnets are so strong",
+      "title": " x3-fixFun fact: why MRI magnets are so strong",
       "publishedAt": "2026-01-20T12:00:00Z",
       "markdownBody": "# Fun fact: MRI magnets\n\nClinical MRI scanners use superconducting magnets typically rated at **1.5 T or 3 T**.\n\n![MRI magnet schematic](images/news/magnet_diagram.png)\n\nThat is roughly **30,000 times stronger** than Earth's magnetic field. Strict safety zones exist around every scanner room."
     },
     {
       "id": "fun-fact-marie-curie",
-      "title": "Fun fact: Marie Curie's mobile radiography units",
+      "title": " x3-fixFun fact: Marie Curie's mobile radiography units",
       "publishedAt": "2026-01-17T12:00:00Z",
       "markdownBody": "# Fun fact: Marie Curie\n\n**Marie Curie** developed mobile radiography units during World War I nicknamed *petites Curies*.\n\n![Historical laboratory](images/news/marie_curie_lab.png)\n\nThese vehicles brought X-ray diagnostics closer to field hospitals and saved countless surgical decisions."
     },
     {
       "id": "fun-fact-hounsfield-units",
-      "title": "Fun fact: what Hounsfield units really measure",
+      "title": " x3-fixFun fact: what Hounsfield units really measure",
       "publishedAt": "2026-01-15T12:00:00Z",
       "markdownBody": "# Fun fact: Hounsfield units\n\n**Hounsfield units (HU)** scale CT voxel values relative to water (0 HU) and air (−1000 HU).\n\n![CT image](images/news/hounsfield_ct.png)\n\nBone typically exceeds **+400 HU**, while soft tissues cluster near 0–80 HU depending on composition."
     },
     {
       "id": "fun-fact-cosmic-radiation",
-      "title": "Fun fact: cosmic radiation at flight altitude",
+      "title": " x3-fixFun fact: cosmic radiation at flight altitude",
       "publishedAt": "2026-01-12T12:00:00Z",
       "markdownBody": "# Fun fact: cosmic radiation\n\nPassengers on long-haul flights receive measurable **cosmic radiation** doses because Earth's atmosphere provides less shielding at altitude.\n\n![Cosmic radiation concept](images/news/cosmic_radiation.png)\n\nAircrew accumulate annual doses comparable to some medical workers."
     },
     {
       "id": "fun-fact-pet-tracers",
-      "title": "Fun fact: why PET tracers decay so quickly",
+      "title": " x3-fixFun fact: why PET tracers decay so quickly",
       "publishedAt": "2026-01-10T12:00:00Z",
       "markdownBody": "# Fun fact: PET tracers\n\nMost clinical PET tracers use **positron-emitting isotopes** with short half-lives, such as fluorine-18 (~110 minutes).\n\n![PET tracer vial](images/news/pet_tracer.png)\n\nShort half-lives limit patient dose but require on-site or nearby cyclotron production."
     },
     {
       "id": "fun-fact-proton-range",
-      "title": "Fun fact: the Bragg peak in proton therapy",
+      "title": " x3-fixFun fact: the Bragg peak in proton therapy",
       "publishedAt": "2026-01-08T12:00:00Z",
       "markdownBody": "# Fun fact: proton range\n\nProtons deposit most of their energy at a sharp **Bragg peak**, allowing dose to stop near the tumor with less exit dose.\n\n![Proton depth-dose curve](images/news/proton_bragg.png)\n\nThis physical advantage motivates proton centers for pediatric and ocular treatments."
     },
     {
       "id": "fun-fact-nobel-imaging",
-      "title": "Fun fact: Nobel prizes linked to medical imaging",
+      "title": " x3-fixFun fact: Nobel prizes linked to medical imaging",
       "publishedAt": "2026-01-05T12:00:00Z",
       "markdownBody": "# Fun fact: Nobel imaging discoveries\n\nMedical imaging owes several **Nobel Prize** breakthroughs, from X-rays (Röntgen, 1901) to MRI (Lauterbur and Mansfield, 2003).\n\n![Nobel imaging collage](images/news/nobel_imaging.png)\n\nEach discovery began as a physics experiment before becoming clinical routine."
     },
     {
       "id": "fun-fact-ultrasound-frequency",
-      "title": "Fun fact: ultrasound frequencies used in clinics",
+      "title": " x3-fixFun fact: ultrasound frequencies used in clinics",
       "publishedAt": "2026-01-03T12:00:00Z",
       "markdownBody": "# Fun fact: ultrasound frequency\n\nDiagnostic ultrasound typically uses **2–18 MHz** probes. Higher frequency improves resolution but reduces penetration depth.\n\n![Doppler ultrasound](images/news/doppler_ultrasound.png)\n\nThis trade-off is why abdominal and vascular exams use different probes."
     },
     {
       "id": "fun-fact-digital-radiography",
-      "title": "Fun fact: digital radiography replaced film over two decades",
+      "title": " x3-fixFun fact: digital radiography replaced film over two decades",
       "publishedAt": "2026-01-01T12:00:00Z",
       "markdownBody": "# Fun fact: digital radiography\n\n**Digital radiography** detectors convert X-rays directly or indirectly into electronic signals, eliminating chemical film processing.\n\n![Digital X-ray detector](images/news/digital_xray.png)\n\nHospitals gained faster turnaround and lower archive storage costs."
     },
     {
       "id": "fun-fact-tissue-attenuation",
-      "title": "Fun fact: tissue attenuation differs for every modality",
+      "title": " x3-fixFun fact: tissue attenuation differs for every modality",
       "publishedAt": "2025-12-28T12:00:00Z",
       "markdownBody": "# Fun fact: tissue attenuation\n\nThe same tissue attenuates **X-rays**, **ultrasound**, and **MRI signal** through different physical mechanisms.\n\n![Tissue contrast illustration](images/news/tissue_attenuation.png)\n\nUnderstanding attenuation explains why multimodal imaging is complementary."
     }
