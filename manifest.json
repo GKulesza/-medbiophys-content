@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "contentSetId": "2026-06-12-content",
-  "publishedAt": "2026-06-12T21:46:37Z",
+  "contentSetId": "2026-06-14-content",
+  "publishedAt": "2026-06-14T10:32:41Z",
   "minAppVersion": "1.0.0",
   "baseUrl": "https://raw.githubusercontent.com/GKulesza/medbiophys-content/main",
   "entries": [
@@ -46,6 +46,22 @@
       "locale": "isv"
     },
     {
+      "id": "news/isv_cyrl",
+      "path": "news/isv_cyrl/feed.json",
+      "version": "1",
+      "sha256": "e5bb67f87db3ade38171fa8a3ae7266927e0bd975bfb8db5689e63fc6dfaa33e",
+      "sizeBytes": 13377,
+      "locale": "isv_cyrl"
+    },
+    {
+      "id": "news/isv_glag",
+      "path": "news/isv_glag/feed.json",
+      "version": "1",
+      "sha256": "6a0471f7195b5ad883d541dd46595c45285d26ccf2bd22b394e41b9f2c5c08a3",
+      "sizeBytes": 17585,
+      "locale": "isv_glag"
+    },
+    {
       "id": "history/en/history",
       "path": "history/en/history.md",
       "version": "1",
@@ -84,6 +100,22 @@
       "sha256": "036206061d009504cc99d657997e2a84da6e32fddc4e3a1b9834445e81b90eb9",
       "sizeBytes": 2577,
       "locale": "isv"
+    },
+    {
+      "id": "history/isv_cyrl/history",
+      "path": "history/isv_cyrl/history.md",
+      "version": "1",
+      "sha256": "a82d5f41b79a8778a8549d758717dc304ead7d4c89614798130a3d4a8dae8fa4",
+      "sizeBytes": 4421,
+      "locale": "isv_cyrl"
+    },
+    {
+      "id": "history/isv_glag/history",
+      "path": "history/isv_glag/history.md",
+      "version": "1",
+      "sha256": "b7411a5438de8106adf610b31a5dd6d294044b943cc719d3490ef6b5afd066e6",
+      "sizeBytes": 6353,
+      "locale": "isv_glag"
     },
     {
       "id": "resources/en",
@@ -126,6 +158,22 @@
       "locale": "isv"
     },
     {
+      "id": "resources/isv_cyrl",
+      "path": "resources/isv_cyrl/resources.json",
+      "version": "1",
+      "sha256": "7091844d873a73ee55c0740f435ba7ba2ceb2ea4758f9fd1dface1939c6d8fbc",
+      "sizeBytes": 3248,
+      "locale": "isv_cyrl"
+    },
+    {
+      "id": "resources/isv_glag",
+      "path": "resources/isv_glag/resources.json",
+      "version": "1",
+      "sha256": "060b975041bb5b0151f077d481115746b1008858bc8a284365bc9dcbcbe77a6e",
+      "sizeBytes": 4201,
+      "locale": "isv_glag"
+    },
+    {
       "id": "staff/en",
       "path": "staff/en/staff.json",
       "version": "2",
@@ -164,6 +212,22 @@
       "sha256": "3524a0ebabb56268b121e2f5a5a6854ce2cf61d09a9c1c6bfcabf77b51c80b2d",
       "sizeBytes": 8986,
       "locale": "isv"
+    },
+    {
+      "id": "staff/isv_cyrl",
+      "path": "staff/isv_cyrl/staff.json",
+      "version": "1",
+      "sha256": "02c9db87a82912bcd479dffde3ba40eb5e1371a1d554dded9e4a0a810104136a",
+      "sizeBytes": 13148,
+      "locale": "isv_cyrl"
+    },
+    {
+      "id": "staff/isv_glag",
+      "path": "staff/isv_glag/staff.json",
+      "version": "1",
+      "sha256": "3f111f01c2c39d446a57df12c8a7701da185b0e949ed507f9478a4791d9af80b",
+      "sizeBytes": 17423,
+      "locale": "isv_glag"
     },
     {
       "id": "regulations/en/regulations",
@@ -364,6 +428,86 @@
       "sha256": "ced755256e7a54b4a883f90e0b868f5449ed1487f82d27859bc534307200fd9c",
       "sizeBytes": 4791,
       "locale": "isv"
+    },
+    {
+      "id": "regulations/isv_cyrl/regulations",
+      "path": "regulations/isv_cyrl/regulations.md",
+      "version": "2",
+      "sha256": "f117c2fd6fb2cb6c43cc79ce1137f0d3acf649259484308d5b49dd57de470bb6",
+      "sizeBytes": 4538,
+      "locale": "isv_cyrl"
+    },
+    {
+      "id": "regulations/isv_cyrl/safety",
+      "path": "regulations/isv_cyrl/safety.md",
+      "version": "2",
+      "sha256": "bf5703aa48ca6563ef6bd880d9e6b7d5091a6e8f41bfd788f8f8e2a44c0b51ac",
+      "sizeBytes": 3337,
+      "locale": "isv_cyrl"
+    },
+    {
+      "id": "regulations/isv_cyrl/assessment",
+      "path": "regulations/isv_cyrl/assessment.md",
+      "version": "2",
+      "sha256": "ca71459c6e3e7a6ef2a683925985b4f7a865c9a1b182676cc303a53f49406c6f",
+      "sizeBytes": 3098,
+      "locale": "isv_cyrl"
+    },
+    {
+      "id": "regulations/isv_cyrl/exam",
+      "path": "regulations/isv_cyrl/exam.md",
+      "version": "2",
+      "sha256": "5f23a02e16cfd8ec10a41bdef33527c83bb0133faaa659d3f97e1f5bee98b045",
+      "sizeBytes": 3779,
+      "locale": "isv_cyrl"
+    },
+    {
+      "id": "regulations/isv_cyrl/syllabus",
+      "path": "regulations/isv_cyrl/syllabus.md",
+      "version": "2",
+      "sha256": "aa509ff1b2e470197f738017d9a5d4703aac2bd08820d88c3d65c8a3ab2ffed1",
+      "sizeBytes": 8310,
+      "locale": "isv_cyrl"
+    },
+    {
+      "id": "regulations/isv_glag/regulations",
+      "path": "regulations/isv_glag/regulations.md",
+      "version": "2",
+      "sha256": "0afac2b03f001070779251eb3acf4907ed2d2adf36ab39495437cc537b00e683",
+      "sizeBytes": 6394,
+      "locale": "isv_glag"
+    },
+    {
+      "id": "regulations/isv_glag/safety",
+      "path": "regulations/isv_glag/safety.md",
+      "version": "2",
+      "sha256": "c9ace8272456c5e2476be4c7efa15e3ad311e30f59d0e4b71ecce08a189bbc0c",
+      "sizeBytes": 4769,
+      "locale": "isv_glag"
+    },
+    {
+      "id": "regulations/isv_glag/assessment",
+      "path": "regulations/isv_glag/assessment.md",
+      "version": "2",
+      "sha256": "fa21baf6681da800cf72b6144fc53e03a0a53655f54d2f274d7dc8b35b3325d4",
+      "sizeBytes": 4355,
+      "locale": "isv_glag"
+    },
+    {
+      "id": "regulations/isv_glag/exam",
+      "path": "regulations/isv_glag/exam.md",
+      "version": "2",
+      "sha256": "641d4c835cbd152eef3993e8b0dff4c7688333400c6f6294a28f774a6bce2b88",
+      "sizeBytes": 5322,
+      "locale": "isv_glag"
+    },
+    {
+      "id": "regulations/isv_glag/syllabus",
+      "path": "regulations/isv_glag/syllabus.md",
+      "version": "2",
+      "sha256": "3628346bf0740d4433985e8b050d9dc46a9fe0eebdf8361cf536281c9447c519",
+      "sizeBytes": 11781,
+      "locale": "isv_glag"
     }
   ]
 }
