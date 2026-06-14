@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "contentSetId": "2026-06-14-content",
-  "publishedAt": "2026-06-14T14:54:02Z",
+  "publishedAt": "2026-06-14T16:33:00Z",
   "minAppVersion": "1.0.0",
   "baseUrl": "https://raw.githubusercontent.com/GKulesza/medbiophys-content/main",
   "entries": [
@@ -115,6 +115,62 @@
       "version": "2",
       "sha256": "e4ee044cb4739b4f0e0f34413c39e9ec227e7ac5b9b5723c38a7515d7841ebaa",
       "sizeBytes": 6310,
+      "locale": "isv_glag"
+    },
+    {
+      "id": "about/en/about",
+      "path": "about/en/about.md",
+      "version": "1",
+      "sha256": "173234c998d32c0e32b28d0d8954e6fb5e5b1efba23ee4eb28262579dcfdbb62",
+      "sizeBytes": 631,
+      "locale": "en"
+    },
+    {
+      "id": "about/pl/about",
+      "path": "about/pl/about.md",
+      "version": "1",
+      "sha256": "e8cdf6e51b81c9a0a5c08dacc2ad421e936fe889985c69ca0c101ce85d8c3fa8",
+      "sizeBytes": 633,
+      "locale": "pl"
+    },
+    {
+      "id": "about/es/about",
+      "path": "about/es/about.md",
+      "version": "1",
+      "sha256": "2e1f6acb81e7fd0064137b6a8b29b1050b464676d755bef44aae081d9f75ae55",
+      "sizeBytes": 350,
+      "locale": "es"
+    },
+    {
+      "id": "about/eo/about",
+      "path": "about/eo/about.md",
+      "version": "1",
+      "sha256": "2a47a49fbbc877f29a51902075e00c01973799298462a1e6994f1a8bfa5f7e6e",
+      "sizeBytes": 287,
+      "locale": "eo"
+    },
+    {
+      "id": "about/isv/about",
+      "path": "about/isv/about.md",
+      "version": "1",
+      "sha256": "281ff71012a405552d1df94fd51a4bfaea21300fae9ccb6b2eb0ce9fbf5fcdf8",
+      "sizeBytes": 246,
+      "locale": "isv"
+    },
+    {
+      "id": "about/isv_cyrl/about",
+      "path": "about/isv_cyrl/about.md",
+      "version": "1",
+      "sha256": "1cb27e36daf3b3f15bdc12586dcf05e1b67f2943119ad4454389f787db8a8d57",
+      "sizeBytes": 400,
+      "locale": "isv_cyrl"
+    },
+    {
+      "id": "about/isv_glag/about",
+      "path": "about/isv_glag/about.md",
+      "version": "1",
+      "sha256": "7aeba1b8876fc990457f56af84cb6e9fad4bd28ea6a3a971e5bbb952387c8099",
+      "sizeBytes": 420,
       "locale": "isv_glag"
     },
     {
