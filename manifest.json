@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "contentSetId": "2026-06-14-content",
-  "publishedAt": "2026-06-14T16:33:00Z",
+  "publishedAt": "2026-06-14T16:45:05Z",
   "minAppVersion": "1.0.0",
   "baseUrl": "https://raw.githubusercontent.com/GKulesza/medbiophys-content/main",
   "entries": [
@@ -171,6 +171,62 @@
       "version": "1",
       "sha256": "7aeba1b8876fc990457f56af84cb6e9fad4bd28ea6a3a971e5bbb952387c8099",
       "sizeBytes": 420,
+      "locale": "isv_glag"
+    },
+    {
+      "id": "contact/en/contact",
+      "path": "contact/en/contact.md",
+      "version": "1",
+      "sha256": "55ce2bf9c457881c19240f807bfca4962ecb485539d4a2a0eb3157678e9beee6",
+      "sizeBytes": 450,
+      "locale": "en"
+    },
+    {
+      "id": "contact/pl/contact",
+      "path": "contact/pl/contact.md",
+      "version": "1",
+      "sha256": "d975887edf71f62ce536f7225046d9575c067feb20a2c3376fe61993ace72609",
+      "sizeBytes": 458,
+      "locale": "pl"
+    },
+    {
+      "id": "contact/es/contact",
+      "path": "contact/es/contact.md",
+      "version": "1",
+      "sha256": "08dfe88681f7f6e6da177f4542d61fad15a6b3d41e75bda17fc5a6afc60acd87",
+      "sizeBytes": 494,
+      "locale": "es"
+    },
+    {
+      "id": "contact/eo/contact",
+      "path": "contact/eo/contact.md",
+      "version": "1",
+      "sha256": "2f13222dd419af4524eb2e7e6b1c455b8339df13ed2c2ab90210eb4b9d43097d",
+      "sizeBytes": 460,
+      "locale": "eo"
+    },
+    {
+      "id": "contact/isv/contact",
+      "path": "contact/isv/contact.md",
+      "version": "1",
+      "sha256": "49857cf3a4d35c6367c1b939bd3db94c78ff0800f26115662d2f587aa6a3a503",
+      "sizeBytes": 450,
+      "locale": "isv"
+    },
+    {
+      "id": "contact/isv_cyrl/contact",
+      "path": "contact/isv_cyrl/contact.md",
+      "version": "1",
+      "sha256": "40cd05d2079e228ad6b8c58c01529ac015e84f251a67900f85d2b91802aff298",
+      "sizeBytes": 567,
+      "locale": "isv_cyrl"
+    },
+    {
+      "id": "contact/isv_glag/contact",
+      "path": "contact/isv_glag/contact.md",
+      "version": "1",
+      "sha256": "9af74273e678d02d43ebb76d67bb31ab568cd65f33b0f6e0d7a2b85e32802bea",
+      "sizeBytes": 567,
       "locale": "isv_glag"
     },
     {
