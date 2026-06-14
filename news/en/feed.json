@@ -3,6 +3,12 @@
   "locale": "en",
   "items": [
     {
+      "id": "news-phase58-content-verification-2026",
+      "title": "TEST PHASE 58 — Content Update Verification",
+      "publishedAt": "2026-06-14T14:00:00Z",
+      "markdownBody": "# TEST PHASE 58 — Content Update Verification\n\nThis article verifies that editorial changes published through the MedBioPhys content workflow reach release builds without a new app binary.\n\nIf you see this headline in **News** (English locale) after a GitHub push to GKulesza/medbiophys-content and an app restart, Phase 58 end-to-end delivery is confirmed."
+    },
+    {
       "id": "news-phase48-content-update-ux-2026",
       "title": "FF TEST PHASE 48 — Content Update UX",
       "publishedAt": "2026-06-13T12:00:00Z",

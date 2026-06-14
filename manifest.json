@@ -1,16 +1,16 @@
 {
   "schemaVersion": 1,
   "contentSetId": "2026-06-14-content",
-  "publishedAt": "2026-06-14T10:32:41Z",
+  "publishedAt": "2026-06-14T11:54:41Z",
   "minAppVersion": "1.0.0",
   "baseUrl": "https://raw.githubusercontent.com/GKulesza/medbiophys-content/main",
   "entries": [
     {
       "id": "news/en",
       "path": "news/en/feed.json",
-      "version": "8",
-      "sha256": "1a89c9b13df7176f8d02ce5f046465f299eadd069cdca6f1ce502210c0ba7d79",
-      "sizeBytes": 14996,
+      "version": "9",
+      "sha256": "c1b0e9050433c750be0eb2a3a92e85560cdef60e20cafde3cae855336bd8d702",
+      "sizeBytes": 15560,
       "locale": "en"
     },
     {
@@ -48,17 +48,17 @@
     {
       "id": "news/isv_cyrl",
       "path": "news/isv_cyrl/feed.json",
-      "version": "1",
-      "sha256": "e5bb67f87db3ade38171fa8a3ae7266927e0bd975bfb8db5689e63fc6dfaa33e",
-      "sizeBytes": 13377,
+      "version": "2",
+      "sha256": "527361a3196c9cb02dbb14a020449bdda335a268b78257b0fcf7fbbfaf80e408",
+      "sizeBytes": 12772,
       "locale": "isv_cyrl"
     },
     {
       "id": "news/isv_glag",
       "path": "news/isv_glag/feed.json",
-      "version": "1",
-      "sha256": "6a0471f7195b5ad883d541dd46595c45285d26ccf2bd22b394e41b9f2c5c08a3",
-      "sizeBytes": 17585,
+      "version": "2",
+      "sha256": "1e1b45d736a95fbfc38cd85a511157a5ad658b0299fad8a4a66c6dcb4b52b4e3",
+      "sizeBytes": 16375,
       "locale": "isv_glag"
     },
     {
@@ -104,17 +104,17 @@
     {
       "id": "history/isv_cyrl/history",
       "path": "history/isv_cyrl/history.md",
-      "version": "1",
-      "sha256": "a82d5f41b79a8778a8549d758717dc304ead7d4c89614798130a3d4a8dae8fa4",
-      "sizeBytes": 4421,
+      "version": "2",
+      "sha256": "49e11afc3f93a4f1d27b07cef0b13465ac28c91b3a86e5610346426b14fdebba",
+      "sizeBytes": 4400,
       "locale": "isv_cyrl"
     },
     {
       "id": "history/isv_glag/history",
       "path": "history/isv_glag/history.md",
-      "version": "1",
-      "sha256": "b7411a5438de8106adf610b31a5dd6d294044b943cc719d3490ef6b5afd066e6",
-      "sizeBytes": 6353,
+      "version": "2",
+      "sha256": "e4ee044cb4739b4f0e0f34413c39e9ec227e7ac5b9b5723c38a7515d7841ebaa",
+      "sizeBytes": 6310,
       "locale": "isv_glag"
     },
     {
