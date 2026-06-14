@@ -3,158 +3,158 @@
   "locale": "pl",
   "items": [
     {
-      "id": "news-phase44-pipeline-verification-2026",
-      "title": "FF TEST PHASE 44 — weryfikacja publikacji treści",
+      "id": "news-phase44-pipeline-podvhours-2026",
+      "title": " remoteNowy test to idzie tylko online",
       "publishedAt": "2026-06-12T19:43:42Z",
       "markdownBody": "# TEST PHASE 44 — ## weryfikacja publikacji ### treści\n\nTen artykuł został utworzony, aby sprawdzić, czy pełny proces edycji treści działa poprawnie: edycja w repozytorium źródłowym, synchronizacja drzew A/B/C, regeneracja manifestu oraz wyświetlenie w aplikacji w sekcji **News**.\n\nJeśli widzisz ten tekst po wybraniu języka **Polski**, pipeline publikacji treści działa."
     },
     {
       "id": "b-announcement-lab-hours-2026",
-      "title": "Wiosenna aktualizacja godzin laboratorium",
+      "title": " remoteremote Wiosenna aktualizacja godzin laboratorium",
       "publishedAt": "2026-05-15T09:00:00Z",
       "markdownBody": "# The Wiosenna ## aktualizacja ### godzin laboratorium\n\nLaboratorium Biofizyki Medycznej wydłuża godziny otwarcia w okresie sesji wiosennej.\n\n![Laboratorium praktyczne](images/news/workshop_lab.png)\n\n## Najważniejsze zmiany\n\n- Poniedziałek–czwartek: **08:00–18:00**\n- Piątek: **08:00–15:00**\n- Konsultacje po wcześniejszym umówieniu\n\n> Sprawdź harmonogram grupy w kalendarzu przed każdym zajęciem."
     },
     {
       "id": "news-seminar-series-2026",
-      "title": "Rusza wiosenny cykl seminariów biofizycznych",
+      "title": " remoteremote Rusza wiosenny cykl seminariów biofizycznych",
       "publishedAt": "2026-02-10T08:30:00Z",
       "markdownBody": "# Cykl seminariów biofizycznych\n\nKatedra rozpoczyna wiosenny cykl wykładów o obrazowaniu medycznym i diagnostyce laboratoryjnej.\n\n![Pomieszczenie rezonansu magnetycznego](images/news/mri_scan.png)\n\n## Pierwsze spotkania\n\n1. **Podstawy bezpieczeństwa MRI** — 18 lutego\n2. **Ultrasonografia w praktyce klinicznej** — 4 marca\n3. **Metody optyczne w analizie tkanek** — 18 marca"
     },
     {
       "id": "announcement-library-access-2026",
-      "title": "Wydłużony dostęp do zbiorów radiologicznych",
+      "title": " remoteremote Wydłużony dostęp do zbiorów radiologicznych",
       "publishedAt": "2026-02-08T11:00:00Z",
       "markdownBody": "# Wydłużony dostęp do czytelni\n\nCzytelnia katedry oferuje wydłużony wieczorny dostęp do podręczników z radiologii i fizyki medycznej.\n\n![Przestrzeń do nauki](images/news/library_study.png)\n\n## Nowości\n\n- Czasopisma o MRI, TK i PET\n- Archiwalia dotyczące **Marii Skłodowskiej-Curie**\n- Ciche stanowiska z gniazdkami"
     },
     {
       "id": "news-mri-technology-advances",
-      "title": "Katedra prezentuje postępy w technologii MRI",
+      "title": " remoteremote Katedra prezentuje postępy w technologii MRI",
       "publishedAt": "2026-02-05T10:00:00Z",
       "markdownBody": "# Postępy w technologii MRI\n\nBadacze zaprezentowali prace nad **MRI 7 T** i ilościowymi sekwencjami mapowania w neuroobrazowaniu.\n\n![Technologia MRI](images/news/mri_scan.png)\n\n## Najważniejsze tematy\n\n- Szybsza akwizycja dzięki obrazowaniu równoległemu\n- Lepsze tłumienie sygnału z tłuszczu\n- Cewki fazowane dla badań pediatrycznych"
     },
     {
       "id": "news-pet-imaging-update",
-      "title": "Nowe protokoły PET dla dydaktyki onkologii",
+      "title": " remoteNowe protokoły PET dla dydaktyki onkologii",
       "publishedAt": "2026-01-28T09:00:00Z",
       "markdownBody": "# Aktualizacja obrazowania PET\n\nPartnerzy kliniczni udostępnili zaktualizowane protokoły **FDG-PET** dla zajęć z onkologii i neurologii.\n\n![Skaner PET](images/news/pet_scanner.png)\n\n## Cele kształcenia\n\n1. Mechanizmy wychwytywania znaczników\n2. Metody normalizacji SUV\n3. Interpretacja danych PET/CT"
     },
     {
       "id": "news-proton-therapy-centre",
-      "title": "Wizyta studyjna w ośrodku protonoterapii",
+      "title": " remoteWizyta studyjna w ośrodku protonoterapii",
       "publishedAt": "2026-01-22T08:00:00Z",
       "markdownBody": "# Wizyta studyjna — protonoterapia\n\nStudenci czwartego roku odwiedzą ośrodek **protonoterapii**, aby obserwować planowanie leczenia i podawanie dawki.\n\n![Ośrodek protonoterapii](images/news/proton_therapy.png)\n\n## Tematy\n\n- Szczyt Bragga i rozszerzony szczyt Bragga\n- Niepewność zasięgu w tkance\n- Pomiary QA komorami jonizacyjnymi"
     },
     {
       "id": "news-ultrasound-physics-course",
-      "title": "Moduł fizyki ultrasonografii z ćwiczeniami Dopplera",
+      "title": " remoteModuł fizyki ultrasonografii z ćwiczeniami Dopplera",
       "publishedAt": "2026-01-18T12:00:00Z",
       "markdownBody": "# Moduł fizyki ultrasonografii\n\nZaktualizowany moduł **fizyki USG** wprowadza fantomy przepływu Dopplera i analizę spektralną.\n\n![Głowica ultrasonograficzna](images/news/ultrasound_probe.png)"
     },
     {
       "id": "news-medical-ai-radiology",
-      "title": "Wykład gościnny o AI w radiologii",
+      "title": " remoteWykład gościnny o AI w radiologii",
       "publishedAt": "2026-01-12T09:30:00Z",
       "markdownBody": "# AI w radiologii\n\nWykład omawia, jak **uczenie maszynowe** wspiera wykrywanie guzków płucnych i linii złamań.\n\n![Wizualizacja AI medycznego](images/news/medical_ai.png)"
     },
     {
       "id": "news-hounsfield-lecture-series",
-      "title": "Cykl wykładów Hounsfielda o tomografii komputerowej",
+      "title": " remoteCykl wykładów Hounsfielda o tomografii komputerowej",
       "publishedAt": "2026-01-08T10:00:00Z",
       "markdownBody": "# Cykl wykładów Hounsfielda\n\nSeria imienia **Sir Godfreya Hounsfielda** omawia fizykę TK i współczesną spektralną tomografię.\n\n![Skaner TK](images/news/hounsfield_ct.png)"
     },
     {
       "id": "news-cern-medical-applications",
-      "title": "Zastosowania medyczne CERN na wiosennym kolokwium",
+      "title": " remoteZastosowania medyczne CERN na wiosennym kolokwium",
       "publishedAt": "2026-01-03T08:00:00Z",
       "markdownBody": "# Zastosowania medyczne CERN\n\nKolokwium łączy **technologię akceleratorów CERN** z obrazowaniem medycznym i hadronoterapią.\n\n![Koncepcja akceleratora](images/news/cern_medical.png)"
     },
     {
       "id": "scientific-club-imedic-2026",
-      "title": "Koło Naukowe: nabór abstraktów iMEDIC 2026",
+      "title": " remoteKoło Naukowe: nabór abstraktów iMEDIC 2026",
       "publishedAt": "2026-02-01T10:00:00Z",
       "markdownBody": "# Koło Naukowe: iMEDIC 2026\n\nKoło Naukowe Biofizyki Medycznej zaprasza do zgłaszania abstraktów na **iMEDIC 2026**.\n\n![Sala konferencyjna](images/news/conference_2026.png)"
     },
     {
       "id": "scientific-club-student-project-grant",
-      "title": "Granty studenckie na projekty dozymetryczne",
+      "title": " remoteGranty studenckie na projekty dozymetryczne",
       "publishedAt": "2026-01-25T09:00:00Z",
       "markdownBody": "# Granty studenckie\n\nKoło Naukowe ogłasza mikrogranty na projekty z **dozymetrii** i ochrony radiologicznej.\n\n![Zespół studencki](images/news/student_research.png)"
     },
     {
       "id": "scientific-club-mri-workshop",
-      "title": "Weekendowy warsztat bezpieczeństwa MRI",
+      "title": " remoteWeekendowy warsztat bezpieczeństwa MRI",
       "publishedAt": "2026-01-20T14:00:00Z",
       "markdownBody": "# Warsztat bezpieczeństwa MRI\n\nNowi członkowie Koła mogą wziąć udział w warsztacie **bezpieczeństwa MRI**.\n\n![Laboratorium warsztatowe](images/news/workshop_lab.png)"
     },
     {
       "id": "scientific-club-publication-award",
-      "title": "Nagroda klubowa za publikację biofizyczną",
+      "title": " remoteNagroda klubowa za publikację biofizyczną",
       "publishedAt": "2026-01-14T11:00:00Z",
       "markdownBody": "# Nagroda za publikację\n\nCzłonek Koła otrzymał nagrodę za **recenzowaną publikację** o elastografii optycznej.\n\n![Publikacja naukowa](images/news/publication_journal.png)"
     },
     {
       "id": "scientific-club-biophysics-competition",
-      "title": "Ogólnopolski konkurs biofizyczny — zapisy zespołów",
+      "title": " remoteOgólnopolski konkurs biofizyczny — zapisy zespołów",
       "publishedAt": "2026-01-05T09:00:00Z",
       "markdownBody": "# Konkurs biofizyczny\n\nZespoły do czterech osób mogą zgłosić się do **ogólnopolskiego konkursu biofizycznego**.\n\n![Plakat konkursu](images/news/competition_poster.png)"
     },
     {
       "id": "fun-fact-mri-magnets",
-      "title": "Ciekawostka: dlaczego magnety MRI są tak silne",
+      "title": " remoteCiekawostka: dlaczego magnety MRI są tak silne",
       "publishedAt": "2026-01-20T12:00:00Z",
       "markdownBody": "# Ciekawostka: magnety MRI\n\nKliniczne skanery MRI używają nadprzewodnikowych magnesów **1,5 T lub 3 T**.\n\n![Schemat magnesu MRI](images/news/magnet_diagram.png)\n\nTo około **30 000 razy więcej** niż pole geomagnetyczne Ziemi."
     },
     {
       "id": "fun-fact-marie-curie",
-      "title": "Ciekawostka: mobilne aparaty Marii Skłodowskiej-Curie",
+      "title": " remoteCiekawostka: mobilne aparaty Marii Skłodowskiej-Curie",
       "publishedAt": "2026-01-17T12:00:00Z",
       "markdownBody": "# Ciekawostka: Maria Skłodowska-Curie\n\n**Maria Skłodowska-Curie** stworzyła mobilne aparaty rentgenowskie podczas I wojny światowej.\n\n![Historyczne laboratorium](images/news/marie_curie_lab.png)"
     },
     {
       "id": "fun-fact-hounsfield-units",
-      "title": "Ciekawostka: co mierzą jednostki Hounsfielda",
+      "title": " remoteCiekawostka: co mierzą jednostki Hounsfielda",
       "publishedAt": "2026-01-15T12:00:00Z",
       "markdownBody": "# Ciekawostka: jednostki Hounsfielda\n\n**Jednostki Hounsfielda (HU)** odnoszą wartości CT do wody (0 HU) i powietrza (−1000 HU).\n\n![Obraz TK](images/news/hounsfield_ct.png)"
     },
     {
       "id": "fun-fact-cosmic-radiation",
-      "title": "Ciekawostka: promieniowanie kosmiczne na wysokości lotu",
+      "title": " remoteCiekawostka: promieniowanie kosmiczne na wysokości lotu",
       "publishedAt": "2026-01-12T12:00:00Z",
       "markdownBody": "# Ciekawostka: promieniowanie kosmiczne\n\nPasażerowie długich lotów otrzymują mierzalne dawki **promieniowania kosmicznego**.\n\n![Promieniowanie kosmiczne](images/news/cosmic_radiation.png)"
     },
     {
       "id": "fun-fact-pet-tracers",
-      "title": "Ciekawostka: dlaczego znaczniki PET tak szybko zanikają",
+      "title": " remoteCiekawostka: dlaczego znaczniki PET tak szybko zanikają",
       "publishedAt": "2026-01-10T12:00:00Z",
       "markdownBody": "# Ciekawostka: znaczniki PET\n\nKliniczne znaczniki PET używają izotopów emitujących pozytony, np. fluor-18 (~110 minut).\n\n![Fiolka znacznika PET](images/news/pet_tracer.png)"
     },
     {
       "id": "fun-fact-proton-range",
-      "title": "Ciekawostka: szczyt Bragga w protonoterapii",
+      "title": " remoteCiekawostka: szczyt Bragga w protonoterapii",
       "publishedAt": "2026-01-08T12:00:00Z",
       "markdownBody": "# Ciekawostka: zasięg protonów\n\nProtony depozytują energię w ostrym **szczycie Bragga**, co ogranicza dawkę za guzem.\n\n![Krzywa dawki protonów](images/news/proton_bragg.png)"
     },
     {
       "id": "fun-fact-nobel-imaging",
-      "title": "Ciekawostka: Nobla i obrazowanie medyczne",
+      "title": " remoteCiekawostka: Nobla i obrazowanie medyczne",
       "publishedAt": "2026-01-05T12:00:00Z",
       "markdownBody": "# Ciekawostka: Noblowskie odkrycia\n\nObrazowanie medyczne zawdzięcza wiele nagród **Nobla**, od promieni Rentgena po MRI.\n\n![Kolaż Noblowski](images/news/nobel_imaging.png)"
     },
     {
       "id": "fun-fact-ultrasound-frequency",
-      "title": "Ciekawostka: częstotliwości ultrasonografii klinicznej",
+      "title": " remoteCiekawostka: częstotliwości ultrasonografii klinicznej",
       "publishedAt": "2026-01-03T12:00:00Z",
       "markdownBody": "# Ciekawostka: częstotliwość USG\n\nDiagnostyczne USG używa głowic **2–18 MHz**. Wyższa częstotliwość daje lepszą rozdzielczość, ale mniejszy zasięg.\n\n![Ultrasonografia Dopplera](images/news/doppler_ultrasound.png)"
     },
     {
       "id": "fun-fact-digital-radiography",
-      "title": "Ciekawostka: cyfrowa radiografia zastąpiła kliszę",
+      "title": " remoteCiekawostka: cyfrowa radiografia zastąpiła kliszę",
       "publishedAt": "2026-01-01T12:00:00Z",
       "markdownBody": "# Ciekawostka: radiografia cyfrowa\n\n**Radiografia cyfrowa** zamienia promieniowanie RTG na sygnał elektroniczny bez kliszy.\n\n![Cyfrowy detektor RTG](images/news/digital_xray.png)"
     },
     {
       "id": "fun-fact-tissue-attenuation",
-      "title": "Ciekawostka: różne mechanizmy tłumienia w tkance",
+      "title": " remoteCiekawostka: różne mechanizmy tłumienia w tkance",
       "publishedAt": "2025-12-28T12:00:00Z",
       "markdownBody": "# Ciekawostka: tłumienie w tkance\n\nTa sama tkanka tłumi **promieniowanie RTG**, **ultradźwięki** i sygnał **MRI** na różne sposoby.\n\n![Ilustracja kontrastu tkanek](images/news/tissue_attenuation.png)"
     }
